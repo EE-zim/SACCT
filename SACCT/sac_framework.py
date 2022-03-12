@@ -4,12 +4,14 @@ import torch.nn.functional as F
 from torch.optim import Adam
 from utils import soft_update, hard_update
 from DL_model import GaussianPolicy, QNetwork, DeterministicPolicy
+from torch import nn
 
 
 #Define the soft actor-critic framework in this .py
 
-class SAC(object):
+class SAC(nn.Module):
     def __init__(self, num_inputs, action_space, args):
+        super(SAC, self).__init__()
 
         self.gamma = args.gamma
         self.tau = args.tau

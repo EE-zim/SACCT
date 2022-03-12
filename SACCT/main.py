@@ -247,6 +247,9 @@ updates = 0
 ########################################################################################
 #############################Start Training#############################################
 ########################################################################################
+
+temp_step_log = []
+
 plot_log=[]
 #plot_real=[]
 plot_test=[]
@@ -305,6 +308,7 @@ for i_episode in itertools.count(1):
                 #what_the_fuck=what_the_fuck+1
 
         reward, next_state, u_ ,l1,l2,l3= env(action,state.squeeze(),u) # Step
+        temp_step_log.append(reward)
         #print(reward)
         #real,_,_,_,_,_=env(action,state.squeeze(),u)
         episode_steps += 1
@@ -346,6 +350,14 @@ for i_episode in itertools.count(1):
     #plot_real.append(round(real_reward, 2))
 
 
+# plot
+
+import matplotlib.pyplot as plt
+
+plt.plot(range(len(temp_step_log)), temp_step_log)
+plt.show()
+
+
 ########################################################################################
 #############################Saving the Training Process################################
 ########################################################################################
@@ -364,9 +376,14 @@ while file_exists:
 ########################################################################################
 #############################Training Saved#############################################
 ########################################################################################
-troch.save
 
+# save
+torch.save(agent.state_dict(), "agent.pth")
 
+# load
+loaded_agent_state_dict = torch.load('agent.pth')
+loaded_agent = SAC(N_S, action_space, args)
+loaded_agent.load_state_dict(loaded_agent_state_dict)
 
 
 

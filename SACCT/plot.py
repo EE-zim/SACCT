@@ -1,7 +1,7 @@
 import pickle
 
 import numpy as np
-with open('test1.pickle', 'rb') as pickle_file:
+with open('test3.pickle', 'rb') as pickle_file:
     [step_log,gain_log,energy_con_log] = pickle.load(pickle_file)
 
     epoch_log = np.array(step_log).reshape((-1, 201)).sum(axis=1)

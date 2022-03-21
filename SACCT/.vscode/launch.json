@@ -13,14 +13,14 @@
             "justMyCode": true
         },
         {
-            "name": "Train",
+            "name": "Train_test",
             "type": "python",
             "request": "launch",
             "program": "main.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                 "--num_steps","21000"
+                 "--num_steps","4020"
             ]
         }
     ]

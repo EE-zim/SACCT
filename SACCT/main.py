@@ -31,6 +31,8 @@ parser.add_argument('--automatic_entropy_tuning', type=bool, default=False, meta
                     help='Automaically adjust (default: False)')
 parser.add_argument('--seed', type=int, default=123456, metavar='N',
                     help='random seed (default: 123456)')
+#parser.add_argument('--batch_size', type=int, default=256, metavar='N',
+#                    help='batch size (default: 256)')
 parser.add_argument('--batch_size', type=int, default=256, metavar='N',
                     help='batch size (default: 256)')
 parser.add_argument('--num_steps', type=int, default=1000001, metavar='N',
@@ -56,6 +58,8 @@ parser.add_argument('--arrival_rate', type=float, default='1.0')
 parser.add_argument('--penalty', type=float, default='1.0')
 parser.add_argument('--GPU', type=int, default='2')
 args = parser.parse_args()
+
+#test
 
 import os
 random.seed(args.seed)
@@ -352,10 +356,10 @@ for i_episode in itertools.count(1):
 
 # plot
 
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
-plt.plot(range(len(temp_step_log)), temp_step_log)
-plt.show()
+#plt.plot(range(len(temp_step_log)), temp_step_log)
+#plt.show()
 
 
 ########################################################################################

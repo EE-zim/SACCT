@@ -13,6 +13,20 @@
             "justMyCode": true
         },
         {
+            "name": "Train_test_withoutGPU",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--num_steps",
+                "4020",
+                "--cuda",
+                "False"
+            ]
+        },
+        {
             "name": "Train_test",
             "type": "python",
             "request": "launch",
@@ -20,7 +34,8 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                 "--num_steps","402"
+                "--num_steps",
+                "4020"
             ]
         }
     ]

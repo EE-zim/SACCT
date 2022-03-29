@@ -57,6 +57,7 @@ parser.add_argument('--num_layer', type=int, default='1')
 parser.add_argument('--arrival_rate', type=float, default='1.0')
 parser.add_argument('--penalty', type=float, default='1.0')
 parser.add_argument('--GPU', type=int, default='2')
+
 args = parser.parse_args()
 
 #test

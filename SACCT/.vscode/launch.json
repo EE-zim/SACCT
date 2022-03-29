@@ -20,7 +20,7 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                 "--num_steps","4020"
+                 "--num_steps","402"
             ]
         }
     ]

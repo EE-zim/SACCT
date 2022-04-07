@@ -27,16 +27,24 @@
             ]
         },
         {
-            "name": "Train_test",
+            "name": "Train",
             "type": "python",
             "request": "launch",
             "program": "main.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                "--num_steps",
-                "4020"
+                "--cuda",
+                "Ture"
             ]
+        },
+        {
+            "name": "Try",
+            "type": "python",
+            "request": "launch",
+            "program": "importToCSV.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
         }
     ]
 }

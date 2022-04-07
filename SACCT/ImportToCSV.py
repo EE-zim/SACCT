@@ -1,23 +1,20 @@
 from enum import Enum
 import pickle
-with open('test1.pickle', 'rb') as pickle_file:
+with open('test0_detail.pickle', 'rb') as pickle_file:
     [ step_log, gain_log, energy_con_log ] = pickle.load(pickle_file)
-print(step_log)
-
+    
+    
+#print(step_log, gain_log, energy_con_log)#Print to terminals?
 import csv
-# class export(Enum):
-#     step_log = 1
-#     gain_log = 2
-#     energy_con_log = 3
-
-# for i in range(1, 4, 1):
-
-
 export_files = [ 'step_log.csv', 'gain_log.csv', 'energy_con_log.csv' ]
+filesData = [step_log, gain_log, energy_con_log]
 
-for file in export_files:
-    with open(file, 'w') as log_file:
-        # file.write('aaaaa\n')
-        # file.write(','.join(log_file))
+# for data in filesData:
+#     with open(str(data)+'.csv', 'w') as log_file:
+#         writer = csv.writer(log_file)
+#         writer.writerow(step_log)
+        
+for counter, files in enumerate(export_files):
+    with open(files, 'w') as log_file:
         writer = csv.writer(log_file)
-        writer.writerow(step_log)
+        writer.writerow(filesData[counter])

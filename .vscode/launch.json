@@ -23,6 +23,19 @@
             "args": [
                  "--num_steps","402"
             ]
+        },
+        {
+            "name": "sacwo",
+            "type": "python",
+            "request": "launch",
+            "program": "sacwo_20210404.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                 "--num_steps","402",
+                 "--cuda", "True"
+            ],
+            "cwd": "${workspaceFolder}/Benchmarks/sacwo"
         }
     ]
 }

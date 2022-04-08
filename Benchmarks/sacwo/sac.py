@@ -59,8 +59,8 @@ class SAC(object):
         # Sample a batch from memory
         state_batch, action_batch, reward_batch, next_state_batch, mask_batch = memory.sample(batch_size=batch_size)
 
-        #print(state_batch.shape)
-        #print(action_batch.shape)
+        # print(state_batch.shape)
+        # print(action_batch.shape)
         #print(reward_batch.shape)
         #print(next_state_batch.shape)
         #print(mask_batch.shape)

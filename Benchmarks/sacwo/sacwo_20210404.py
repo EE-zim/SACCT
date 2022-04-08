@@ -77,8 +77,10 @@ candidate_channel=np.array([1,2,3])
 num_of_channel=candidate_channel.shape[0]
 N_S = 2+num_of_bitrate
 history_length=args.history_length
-N_S=history_length*N_S
-N_A=num_of_bitrate+2
+N_S=history_length*N_S  # 6 + args.history_length(3)
+# N_A=num_of_bitrate+2    # 6
+N_A=num_of_bitrate+1    # 6 
+#Need to check 
 Computation_Cost=np.array([0,1,2,6,0])
 a=0.01
 b=0.05
@@ -224,9 +226,9 @@ def env_reset():
 #action=np.array([1,1,1,0,1])
 action_space=np.zeros((N_A,))
 action_space[0]=100
-action_space[1]=num_of_bitrate
+# action_space[1]=num_of_bitrate
 for i in range(num_of_bitrate):
-    action_space[2+i]=2
+    action_space[1+i]=1
 agent = SAC(N_S,action_space , args)
 #print(args.cuda)
 #Tesnorboard

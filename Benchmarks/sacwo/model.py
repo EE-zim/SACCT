@@ -36,7 +36,7 @@ class QNetwork(nn.Module):
         super(QNetwork, self).__init__()
 
         # Q1 architecture
-        self.linear1 = nn.Linear(num_inputs + num_actions, hidden_dim)
+        self.linear1 = nn.Linear(num_inputs + num_actions, hidden_dim)  # (12, args.hidden_size)
         self.linear2 = nn.Linear(hidden_dim, hidden_dim)
         self.linear3 = nn.Linear(hidden_dim, 1)
 

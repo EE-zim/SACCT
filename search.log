@@ -1,0 +1,1303 @@
+job-ID  prior   name       user         state submit/start at     queue                          slots ja-task-ID 
+-----------------------------------------------------------------------------------------------------------------
+8811965 0.00000 process_ve fs1as        r     04/07/2022 17:56:27 all.q@sharc-node148.shef.ac.uk     1        
+8811967 0.00000 process_ve fs1as        r     04/07/2022 18:10:25 all.q@sharc-node149.shef.ac.uk     1        
+8811976 0.00000 process_ve fs1as        r     04/07/2022 18:31:34 all.q@sharc-node159.shef.ac.uk     1        
+8811978 0.00000 process_ve fs1as        r     04/07/2022 18:57:13 all.q@sharc-node151.shef.ac.uk     1        
+8811980 0.00000 process_ve fs1as        r     04/08/2022 05:07:52 all.q@sharc-node147.shef.ac.uk     1        
+8828769 0.00000 rs_fsh.sh  me1jhe       r     04/04/2022 09:26:25 all.q@sharc-node063.shef.ac.uk    64        
+8829290 0.01313 HL_GCSConv ace19cl      r     04/05/2022 05:08:52 rse.q@sharc-node126.shef.ac.uk     1        
+8829301 0.01313 POL_GCSCon ace19cl      r     04/05/2022 06:42:58 rse.q@sharc-node126.shef.ac.uk     1        
+8830372 0.00000 st_4p.sh   aca19hq      r     04/07/2022 23:47:35 gpu.q@sharc-node100.shef.ac.uk     1        
+8832366 0.00182 canu_assem bo1lpg       r     04/03/2022 18:28:34 alloteropsis.q@sharc-node110.s    14        
+8832755 0.00000 pipe_ADReS ac1yp        r     04/07/2022 04:14:56 gpu.q@sharc-node099.shef.ac.uk     1        
+8832917 0.00000 EthaneSulf mep17cra     r     04/04/2022 09:10:28 all.q@sharc-node159.shef.ac.uk     4        
+8832918 0.00000 EthaneSulf mep17cra     r     04/04/2022 09:14:28 all.q@sharc-node090.shef.ac.uk     4        
+8832975 0.00000 PBr55nm_18 php18lab     r     04/05/2022 09:54:48 all.q@sharc-node089.shef.ac.uk    16        
+8832976 0.00000 PBr55nm_20 php18lab     r     04/05/2022 10:35:14 all.q@sharc-node061.shef.ac.uk    16        
+8832983 0.00000 cdc-Cf     cop20ob      r     04/05/2022 09:26:22 all.q@sharc-node148.shef.ac.uk     6        
+8833252 0.00000 runcodeml. aru18ys      r     04/04/2022 14:02:05 all.q@sharc-node079.shef.ac.uk     1        
+8833278 0.00000 Mor_N2O4.1 me1cmpa      r     04/05/2022 10:35:13 all.q@sharc-node079.shef.ac.uk     4        
+8833748 0.00000 lum20.scri ph1pgz       r     04/06/2022 08:33:10 all.q@sharc-node088.shef.ac.uk    32        
+8833751 0.00000 lum21.scri ph1pgz       r     04/06/2022 10:27:26 all.q@sharc-node102.shef.ac.uk    32        
+8834208 0.00000 Old5JOB.jo mea18ame     r     04/07/2022 04:53:55 all.q@sharc-node053.shef.ac.uk    64        
+8834209 0.00000 Old7JOB.jo mea18ame     r     04/07/2022 06:38:12 all.q@sharc-node011.shef.ac.uk    64        
+8834575 0.00001 bash16.sh  ac1jjgg      r     04/04/2022 23:05:21 rse.q@sharc-node121.shef.ac.uk     1        
+8834576 0.00001 bash17.sh  ac1jjgg      r     04/04/2022 23:05:21 rse.q@sharc-node121.shef.ac.uk     1        
+8834582 0.00001 bash23.sh  ac1jjgg      r     04/04/2022 23:05:21 rse.q@sharc-node121.shef.ac.uk     1        
+8834583 0.00001 bash24.sh  ac1jjgg      r     04/04/2022 23:05:21 rse.q@sharc-node121.shef.ac.uk     1        
+8834584 0.00001 bash25.sh  ac1jjgg      r     04/04/2022 23:05:21 rse.q@sharc-node121.shef.ac.uk     1        
+8834585 0.00001 bash26.sh  ac1jjgg      r     04/04/2022 23:05:21 rse.q@sharc-node121.shef.ac.uk     1        
+8834603 0.00001 bash44.sh  ac1jjgg      r     04/04/2022 23:05:22 rse.q@sharc-node122.shef.ac.uk     1        
+8834609 0.00001 bash50.sh  ac1jjgg      r     04/04/2022 23:05:22 rse.q@sharc-node144.shef.ac.uk     1        
+8834611 0.00001 bash52.sh  ac1jjgg      r     04/04/2022 23:05:22 rse.q@sharc-node145.shef.ac.uk     1        
+8834612 0.00001 bash53.sh  ac1jjgg      r     04/04/2022 23:05:22 rse.q@sharc-node145.shef.ac.uk     1        
+8834630 0.00001 bash71.sh  ac1jjgg      r     04/04/2022 23:05:22 all.q@sharc-node153.shef.ac.uk     1        
+8834636 0.00001 bash77.sh  ac1jjgg      r     04/04/2022 23:08:44 all.q@sharc-node152.shef.ac.uk     1        
+8834637 0.00001 bash78.sh  ac1jjgg      r     04/04/2022 23:24:23 all.q@sharc-node149.shef.ac.uk     1        
+8834638 0.00001 bash79.sh  ac1jjgg      r     04/04/2022 23:35:01 all.q@sharc-node149.shef.ac.uk     1        
+8834639 0.00001 bash80.sh  ac1jjgg      r     04/04/2022 23:49:48 all.q@sharc-node159.shef.ac.uk     1        
+8834654 0.00001 bash95.sh  ac1jjgg      r     04/05/2022 01:04:33 all.q@sharc-node152.shef.ac.uk     1        
+8834656 0.00001 bash97.sh  ac1jjgg      r     04/05/2022 01:20:46 all.q@sharc-node151.shef.ac.uk     1        
+8834657 0.00001 bash98.sh  ac1jjgg      r     04/05/2022 01:30:53 all.q@sharc-node083.shef.ac.uk     1        
+8834663 0.00001 bash104.sh ac1jjgg      r     04/05/2022 02:13:11 all.q@sharc-node147.shef.ac.uk     1        
+8834664 0.00001 bash105.sh ac1jjgg      r     04/05/2022 02:14:41 all.q@sharc-node107.shef.ac.uk     1        
+8834665 0.00001 bash106.sh ac1jjgg      r     04/05/2022 02:14:41 all.q@sharc-node107.shef.ac.uk     1        
+8834666 0.00001 bash107.sh ac1jjgg      r     04/05/2022 02:14:41 all.q@sharc-node151.shef.ac.uk     1        
+8834675 0.00001 bash116.sh ac1jjgg      r     04/05/2022 02:56:38 all.q@sharc-node109.shef.ac.uk     1        
+8834681 0.00001 bash122.sh ac1jjgg      r     04/05/2022 03:18:52 all.q@sharc-node148.shef.ac.uk     1        
+8834684 0.00001 bash125.sh ac1jjgg      r     04/05/2022 04:02:08 all.q@sharc-node148.shef.ac.uk     1        
+8834690 0.00001 bash131.sh ac1jjgg      r     04/05/2022 05:19:23 all.q@sharc-node014.shef.ac.uk     1        
+8834691 0.00001 bash132.sh ac1jjgg      r     04/05/2022 05:39:38 all.q@sharc-node074.shef.ac.uk     1        
+8834692 0.00001 bash133.sh ac1jjgg      r     04/05/2022 06:01:53 all.q@sharc-node019.shef.ac.uk     1        
+8834693 0.00001 bash134.sh ac1jjgg      r     04/05/2022 06:13:38 all.q@sharc-node057.shef.ac.uk     1        
+8834702 0.00001 bash143.sh ac1jjgg      r     04/05/2022 12:04:41 all.q@sharc-node108.shef.ac.uk     1        
+8834708 0.00001 bash149.sh ac1jjgg      r     04/06/2022 00:34:14 all.q@sharc-node114.shef.ac.uk     1        
+8834709 0.00001 bash150.sh ac1jjgg      r     04/06/2022 01:07:09 rse.q@sharc-node122.shef.ac.uk     1        
+8834710 0.00001 bash151.sh ac1jjgg      r     04/06/2022 02:24:15 rse.q@sharc-node123.shef.ac.uk     1        
+8834711 0.00001 bash152.sh ac1jjgg      r     04/06/2022 02:50:44 rse.q@sharc-node123.shef.ac.uk     1        
+8834714 0.00001 bash155.sh ac1jjgg      r     04/06/2022 07:03:13 rse.q@sharc-node122.shef.ac.uk     1        
+8834716 0.00001 bash157.sh ac1jjgg      r     04/06/2022 07:48:46 rse.q@sharc-node122.shef.ac.uk     1        
+8834717 0.00001 bash158.sh ac1jjgg      r     04/06/2022 07:55:41 rse.q@sharc-node123.shef.ac.uk     1        
+8834718 0.00001 bash159.sh ac1jjgg      r     04/06/2022 08:33:26 rse.q@sharc-node123.shef.ac.uk     1        
+8834719 0.00001 bash160.sh ac1jjgg      r     04/06/2022 10:04:20 rse.q@sharc-node121.shef.ac.uk     1        
+8834720 0.00001 bash161.sh ac1jjgg      r     04/06/2022 11:06:08 all.q@sharc-node107.shef.ac.uk     1        
+8834945 0.00000 EIS_9.sh   gg1jce       r     04/05/2022 09:26:23 all.q@sharc-node021.shef.ac.uk    16        
+8835903 0.00000 run_sharc. fcr20cl      r     04/06/2022 07:40:43 all.q@sharc-node107.shef.ac.uk     8        
+8836152 0.00000 nbody_IDE_ smp18cct     r     04/05/2022 22:29:24 all.q@sharc-node092.shef.ac.uk     1        
+8836153 0.00000 nbody_IDE_ smp18cct     r     04/05/2022 22:38:08 all.q@sharc-node088.shef.ac.uk     1        
+8836154 0.00000 nbody_IDE_ smp18cct     r     04/05/2022 22:44:27 all.q@sharc-node088.shef.ac.uk     1        
+8836157 0.00000 kOmBeta0To cop20ob      r     04/05/2022 22:13:23 all.q@sharc-node045.shef.ac.uk     4        
+8836298 0.00000 fluent-t16 mep19gz      r     04/07/2022 05:19:47 all.q@sharc-node091.shef.ac.uk    16        
+8836423 0.00000 pet20-80-1 acb19lh      r     04/07/2022 23:47:20 gpu.q@sharc-node100.shef.ac.uk     1        
+8836424 0.00000 pet20-80-2 acb19lh      r     04/07/2022 23:47:35 gpu.q@sharc-node100.shef.ac.uk     1        
+8836493 0.00000 shortertim bo1bdo       r     04/06/2022 17:23:51 all.q@sharc-node022.shef.ac.uk     8        
+8836551 0.00000 myscript.s mdp18ksr     r     04/06/2022 10:21:32 all.q@sharc-node107.shef.ac.uk     1        
+8836629 0.00000 shapespace bo1tgu       r     04/06/2022 12:36:11 all.q@sharc-node109.shef.ac.uk     1        
+8836659 0.00000 run_r      eia17ggl     r     04/06/2022 11:42:10 all.q@sharc-node092.shef.ac.uk     4        
+8836661 0.00000 r40kb      eia17ggl     r     04/06/2022 11:26:38 all.q@sharc-node159.shef.ac.uk     4        
+8836790 0.00054 train_L3.s co1eg        r     04/06/2022 14:14:21 acsehpc.q@sharc-node172.shef.a    16        
+8837102 0.00000 fluent-t16 mep19gz      r     04/08/2022 02:41:30 all.q@sharc-node109.shef.ac.uk    16        
+8837103 0.00000 fluent-t16 mep19gz      r     04/08/2022 06:51:39 all.q@sharc-node092.shef.ac.uk    16        
+8837662 0.00000 run_rd2    eia17ggl     r     04/06/2022 16:34:47 all.q@sharc-node016.shef.ac.uk     4        
+8838170 0.02072 _3_GATK-Ha bop18jp      t     04/06/2022 22:14:51 molecosh.q@sharc-node155.shef.     5        
+8838174 0.02072 _7_VCF_Fil bop18jp      dt    04/06/2022 22:16:07 molecosh.q@sharc-node155.shef.     2        
+8838179 0.00054 train_L3.s co1eg        r     04/06/2022 22:03:36 acsehpc.q@sharc-node165.shef.a    16        
+8838192 0.02072 _7_VCF_Fil bop18jp      t     04/06/2022 22:19:06 molecosh.q@sharc-node155.shef.     2        
+8838397 0.00000 sharc_indv md1weih      r     04/08/2022 04:30:07 shortint.q@sharc-node104.shef.     2        
+8838398 0.00000 sharc_indv md1weih      r     04/08/2022 04:33:22 shortint.q@sharc-node104.shef.     2        
+8838399 0.00000 sharc_indv md1weih      r     04/08/2022 04:34:52 shortint.q@sharc-node104.shef.     2        
+8838400 0.00000 sharc_indv md1weih      r     04/08/2022 05:22:07 all.q@sharc-node038.shef.ac.uk     2        
+8838401 0.00000 sharc_indv md1weih      r     04/08/2022 06:15:39 all.q@sharc-node010.shef.ac.uk     2        
+8838402 0.00000 sharc_indv md1weih      r     04/08/2022 06:19:54 all.q@sharc-node037.shef.ac.uk     2        
+8838403 0.00000 sharc_indv md1weih      r     04/08/2022 06:20:09 all.q@sharc-node035.shef.ac.uk     2        
+8838404 0.00000 sharc_indv md1weih      r     04/08/2022 06:28:39 all.q@sharc-node159.shef.ac.uk     2        
+8838545 0.00000 Test161    mep20kma     r     04/07/2022 03:05:53 all.q@sharc-node159.shef.ac.uk    48        
+8838717 0.00000 alpha3.sh  bo1sar       r     04/07/2022 08:27:07 all.q@sharc-node159.shef.ac.uk     1        
+8838718 0.00000 alpha4.sh  bo1sar       r     04/07/2022 09:34:03 all.q@sharc-node108.shef.ac.uk     1        
+8838719 0.00000 alpha1.sh  bo1sar       r     04/07/2022 09:34:03 all.q@sharc-node108.shef.ac.uk     1        
+8838720 0.00000 alpha2.sh  bo1sar       r     04/07/2022 12:08:57 all.q@sharc-node108.shef.ac.uk     1        
+8838805 0.00000 Zm-Ki3-REF bo1lpg       r     04/07/2022 12:44:55 all.q@sharc-node066.shef.ac.uk     1 220
+8838805 0.00000 Zm-Ki3-REF bo1lpg       r     04/07/2022 13:20:35 all.q@sharc-node153.shef.ac.uk     1 240
+8838805 0.00000 Zm-Ki3-REF bo1lpg       r     04/07/2022 14:26:24 all.q@sharc-node034.shef.ac.uk     1 268
+8838805 0.00000 Zm-Ki3-REF bo1lpg       r     04/07/2022 14:35:47 all.q@sharc-node150.shef.ac.uk     1 274
+8838805 0.00000 Zm-Ki3-REF bo1lpg       r     04/07/2022 14:59:03 all.q@sharc-node076.shef.ac.uk     1 284
+8838805 0.00000 Zm-Ki3-REF bo1lpg       r     04/07/2022 15:00:49 all.q@sharc-node150.shef.ac.uk     1 285
+8838805 0.00000 Zm-Ki3-REF bo1lpg       r     04/07/2022 15:14:38 all.q@sharc-node053.shef.ac.uk     1 295
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 16:09:18 all.q@sharc-node101.shef.ac.uk     1 35
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 18:20:28 all.q@sharc-node149.shef.ac.uk     1 100
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 19:56:52 all.q@sharc-node088.shef.ac.uk     1 135
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 21:30:39 all.q@sharc-node016.shef.ac.uk     1 188
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 21:31:16 all.q@sharc-node149.shef.ac.uk     1 189
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 21:34:31 all.q@sharc-node076.shef.ac.uk     1 190
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 21:38:11 all.q@sharc-node148.shef.ac.uk     1 193
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 21:50:40 all.q@sharc-node028.shef.ac.uk     1 206
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 22:08:01 all.q@sharc-node152.shef.ac.uk     1 217
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 22:17:16 all.q@sharc-node153.shef.ac.uk     1 220
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 22:24:31 all.q@sharc-node152.shef.ac.uk     1 225
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 22:32:34 all.q@sharc-node150.shef.ac.uk     1 229
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 22:37:33 all.q@sharc-node159.shef.ac.uk     1 232
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 22:56:05 all.q@sharc-node147.shef.ac.uk     1 240
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 23:12:50 all.q@sharc-node032.shef.ac.uk     1 245
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/07/2022 23:12:50 all.q@sharc-node116.shef.ac.uk     1 246
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 00:06:35 all.q@sharc-node045.shef.ac.uk     1 268
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 00:10:50 all.q@sharc-node159.shef.ac.uk     1 273
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 00:11:18 all.q@sharc-node147.shef.ac.uk     1 274
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 00:14:42 all.q@sharc-node149.shef.ac.uk     1 276
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 00:20:57 all.q@sharc-node148.shef.ac.uk     1 278
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 00:43:27 all.q@sharc-node034.shef.ac.uk     1 284
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 00:45:27 all.q@sharc-node011.shef.ac.uk     1 285
+8838806 0.00000 Zm-Ky21-RE bo1lpg       r     04/08/2022 01:08:57 all.q@sharc-node147.shef.ac.uk     1 295
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 01:40:47 all.q@sharc-node102.shef.ac.uk     1 17
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 01:47:17 all.q@sharc-node148.shef.ac.uk     1 19
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 02:24:02 all.q@sharc-node028.shef.ac.uk     1 35
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 02:53:31 all.q@sharc-node151.shef.ac.uk     1 49
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 02:58:01 all.q@sharc-node081.shef.ac.uk     1 51
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 03:03:46 all.q@sharc-node147.shef.ac.uk     1 54
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 03:25:50 all.q@sharc-node113.shef.ac.uk     1 69
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 03:30:52 all.q@sharc-node151.shef.ac.uk     1 72
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 03:31:22 all.q@sharc-node089.shef.ac.uk     1 73
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 03:43:42 all.q@sharc-node159.shef.ac.uk     1 77
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 03:43:57 all.q@sharc-node067.shef.ac.uk     1 78
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 03:52:12 all.q@sharc-node072.shef.ac.uk     1 82
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 04:37:37 all.q@sharc-node080.shef.ac.uk     1 96
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 04:48:07 all.q@sharc-node014.shef.ac.uk     1 99
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 04:52:07 all.q@sharc-node056.shef.ac.uk     1 100
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 04:57:52 all.q@sharc-node024.shef.ac.uk     1 102
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 05:00:37 all.q@sharc-node149.shef.ac.uk     1 105
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 05:01:52 all.q@sharc-node019.shef.ac.uk     1 106
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 05:09:52 all.q@sharc-node072.shef.ac.uk     1 108
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 05:11:07 all.q@sharc-node159.shef.ac.uk     1 109
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 06:17:39 all.q@sharc-node043.shef.ac.uk     1 128
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 06:19:24 all.q@sharc-node149.shef.ac.uk     1 130
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 06:28:09 all.q@sharc-node116.shef.ac.uk     1 135
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 06:33:36 all.q@sharc-node090.shef.ac.uk     1 136
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 06:51:06 all.q@sharc-node061.shef.ac.uk     1 143
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 06:56:23 all.q@sharc-node064.shef.ac.uk     1 144
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:00:14 all.q@sharc-node151.shef.ac.uk     1 146
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:03:14 all.q@sharc-node149.shef.ac.uk     1 147
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:03:14 all.q@sharc-node151.shef.ac.uk     1 148
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:14:14 all.q@sharc-node087.shef.ac.uk     1 153
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:24:55 all.q@sharc-node159.shef.ac.uk     1 158
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:24:55 all.q@sharc-node067.shef.ac.uk     1 159
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:25:10 all.q@sharc-node151.shef.ac.uk     1 160
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:37:40 all.q@sharc-node067.shef.ac.uk     1 168
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:37:40 all.q@sharc-node101.shef.ac.uk     1 169
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:41:30 all.q@sharc-node015.shef.ac.uk     1 173
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:44:15 all.q@sharc-node078.shef.ac.uk     1 174
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:44:15 all.q@sharc-node116.shef.ac.uk     1 175
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:46:30 all.q@sharc-node061.shef.ac.uk     1 176
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:49:10 all.q@sharc-node149.shef.ac.uk     1 178
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:50:40 all.q@sharc-node159.shef.ac.uk     1 179
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:54:40 all.q@sharc-node116.shef.ac.uk     1 181
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:57:10 all.q@sharc-node069.shef.ac.uk     1 182
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 07:57:55 all.q@sharc-node113.shef.ac.uk     1 183
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:00:25 all.q@sharc-node024.shef.ac.uk     1 184
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:00:40 all.q@sharc-node116.shef.ac.uk     1 185
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:02:55 all.q@sharc-node147.shef.ac.uk     1 186
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:03:25 all.q@sharc-node101.shef.ac.uk     1 187
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:03:25 all.q@sharc-node101.shef.ac.uk     1 188
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:03:40 all.q@sharc-node079.shef.ac.uk     1 189
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:03:40 all.q@sharc-node147.shef.ac.uk     1 190
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:03:40 all.q@sharc-node147.shef.ac.uk     1 191
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:03:40 all.q@sharc-node147.shef.ac.uk     1 192
+8838807 0.00000 Zm-Ms71-RE bo1lpg       r     04/08/2022 08:03:40 all.q@sharc-node056.shef.ac.uk     1 193
+8838876 0.00000 lum_job.sh php21sr      r     04/07/2022 22:30:19 all.q@sharc-node022.shef.ac.uk    64        
+8838878 0.00000 lum_job.sh php21sr      r     04/08/2022 03:31:22 all.q@sharc-node017.shef.ac.uk    64        
+8838879 0.00000 lum_job.sh php21sr      r     04/08/2022 05:00:37 all.q@sharc-node113.shef.ac.uk    64        
+8838880 0.00000 lum_job.sh php21sr      r     04/08/2022 06:10:09 all.q@sharc-node063.shef.ac.uk    64        
+8838901 0.00000 submit_imp bo1rmgo      r     04/07/2022 11:17:00 all.q@sharc-node109.shef.ac.uk     1        
+8838925 0.00000 r50k       eia17ggl     r     04/08/2022 05:49:10 all.q@sharc-node091.shef.ac.uk     4        
+8838928 0.00000 rd20       eia17ggl     r     04/08/2022 06:19:55 all.q@sharc-node114.shef.ac.uk     4        
+8838979 0.00000 S809Incomp cop20ob      r     04/07/2022 18:13:13 all.q@sharc-node113.shef.ac.uk     6        
+8839023 0.00000 ESP_surfac liy20jm      r     04/07/2022 13:44:39 all.q@sharc-node091.shef.ac.uk     2        
+8839125 0.00000 vawt       eib17cm      r     04/07/2022 17:13:19 all.q@sharc-node038.shef.ac.uk    18        
+8839196 0.00001 bash1.sh   ac1jjgg      r     04/07/2022 14:53:43 rse.q@sharc-node142.shef.ac.uk     1        
+8839197 0.00001 bash2.sh   ac1jjgg      r     04/07/2022 14:53:43 rse.q@sharc-node142.shef.ac.uk     1        
+8839198 0.00001 bash3.sh   ac1jjgg      r     04/07/2022 14:53:43 rse.q@sharc-node142.shef.ac.uk     1        
+8839199 0.00001 bash4.sh   ac1jjgg      r     04/07/2022 14:53:43 rse.q@sharc-node142.shef.ac.uk     1        
+8839200 0.00001 bash5.sh   ac1jjgg      r     04/07/2022 14:53:43 rse.q@sharc-node142.shef.ac.uk     1        
+8839201 0.00001 bash6.sh   ac1jjgg      r     04/07/2022 15:01:43 rse.q@sharc-node143.shef.ac.uk     1        
+8839202 0.00001 bash7.sh   ac1jjgg      r     04/07/2022 15:01:43 rse.q@sharc-node143.shef.ac.uk     1        
+8839203 0.00001 bash8.sh   ac1jjgg      r     04/07/2022 15:01:43 rse.q@sharc-node143.shef.ac.uk     1        
+8839204 0.00001 bash9.sh   ac1jjgg      r     04/07/2022 15:01:43 rse.q@sharc-node143.shef.ac.uk     1        
+8839205 0.00001 bash10.sh  ac1jjgg      r     04/07/2022 15:01:43 rse.q@sharc-node143.shef.ac.uk     1        
+8839206 0.00001 bash11.sh  ac1jjgg      r     04/07/2022 15:01:43 rse.q@sharc-node143.shef.ac.uk     1        
+8839207 0.00001 bash12.sh  ac1jjgg      r     04/07/2022 16:59:02 all.q@sharc-node039.shef.ac.uk     1        
+8839208 0.00001 bash13.sh  ac1jjgg      r     04/07/2022 16:59:02 all.q@sharc-node025.shef.ac.uk     1        
+8839209 0.00001 bash14.sh  ac1jjgg      r     04/07/2022 17:13:17 all.q@sharc-node050.shef.ac.uk     1        
+8839210 0.00001 bash15.sh  ac1jjgg      r     04/07/2022 17:13:17 all.q@sharc-node069.shef.ac.uk     1        
+8839211 0.00001 bash16.sh  ac1jjgg      r     04/07/2022 17:13:17 all.q@sharc-node038.shef.ac.uk     1        
+8839212 0.00001 bash17.sh  ac1jjgg      r     04/07/2022 17:13:17 all.q@sharc-node042.shef.ac.uk     1        
+8839213 0.00001 bash18.sh  ac1jjgg      r     04/07/2022 17:13:17 all.q@sharc-node009.shef.ac.uk     1        
+8839214 0.00001 bash19.sh  ac1jjgg      r     04/07/2022 17:13:17 all.q@sharc-node082.shef.ac.uk     1        
+8839215 0.00001 bash20.sh  ac1jjgg      r     04/07/2022 17:39:54 all.q@sharc-node007.shef.ac.uk     1        
+8839216 0.00001 bash21.sh  ac1jjgg      r     04/07/2022 18:09:10 all.q@sharc-node107.shef.ac.uk     1        
+8839217 0.00001 bash22.sh  ac1jjgg      r     04/07/2022 23:52:20 all.q@sharc-node109.shef.ac.uk     1        
+8839218 0.00001 bash23.sh  ac1jjgg      r     04/08/2022 00:32:27 all.q@sharc-node159.shef.ac.uk     1        
+8839219 0.00001 bash24.sh  ac1jjgg      r     04/08/2022 04:37:52 rse.q@sharc-node142.shef.ac.uk     1        
+8839220 0.00001 bash25.sh  ac1jjgg      r     04/08/2022 05:11:07 all.q@sharc-node159.shef.ac.uk     1        
+8839221 0.00001 bash26.sh  ac1jjgg      r     04/08/2022 06:15:39 all.q@sharc-node015.shef.ac.uk     1        
+8839222 0.00001 bash27.sh  ac1jjgg      r     04/08/2022 06:15:39 all.q@sharc-node010.shef.ac.uk     1        
+8839223 0.00001 bash28.sh  ac1jjgg      r     04/08/2022 06:16:24 all.q@sharc-node109.shef.ac.uk     1        
+8839224 0.00001 bash29.sh  ac1jjgg      r     04/08/2022 06:16:54 all.q@sharc-node020.shef.ac.uk     1        
+8839225 0.00001 bash30.sh  ac1jjgg      r     04/08/2022 06:19:54 all.q@sharc-node037.shef.ac.uk     1        
+8839226 0.00001 bash31.sh  ac1jjgg      r     04/08/2022 06:19:54 all.q@sharc-node041.shef.ac.uk     1        
+8839227 0.00001 bash32.sh  ac1jjgg      r     04/08/2022 06:20:09 all.q@sharc-node035.shef.ac.uk     1        
+8839228 0.00001 bash33.sh  ac1jjgg      r     04/08/2022 07:30:25 all.q@sharc-node108.shef.ac.uk     1        
+8839554 0.00000 weight400k bob17ed      r     04/07/2022 15:24:43 all.q@sharc-node026.shef.ac.uk     1        
+8839559 0.00000 Job10      cip20vy      r     04/07/2022 17:03:01 all.q@sharc-node149.shef.ac.uk    32        
+8839567 0.00054 train_L3.s co1eg        r     04/08/2022 03:14:05 acsehpc.q@sharc-node167.shef.a    16        
+8839576 0.00000 weight400k bob17ed      r     04/07/2022 16:13:35 all.q@sharc-node152.shef.ac.uk     1        
+8839579 0.00000 NeuroSimSh elt21lw      r     04/07/2022 16:24:35 all.q@sharc-node092.shef.ac.uk     2        
+8839586 0.00000 new.p-star me1amb       r     04/07/2022 16:06:07 insigneo-polaris.q@sharc-node0     2        
+8839605 0.00000 NeuroSimSh elt21lw      r     04/07/2022 16:33:40 all.q@sharc-node101.shef.ac.uk     2        
+8839607 0.00000 NeuroSimSh elt21lw      r     04/07/2022 16:33:40 all.q@sharc-node101.shef.ac.uk     2        
+8839609 0.00000 NeuroSimSh elt21lw      r     04/07/2022 16:50:34 all.q@sharc-node108.shef.ac.uk     2        
+8839615 0.00000 target_0_T act17sz      r     04/07/2022 16:37:23 all.q@sharc-node107.shef.ac.uk     1        
+8839616 0.00000 target_0_T act17sz      r     04/07/2022 16:51:04 all.q@sharc-node109.shef.ac.uk     1        
+8839617 0.00000 target_0_T act17sz      r     04/07/2022 17:13:18 all.q@sharc-node082.shef.ac.uk     1        
+8839618 0.00000 target_0_T act17sz      r     04/07/2022 17:16:05 all.q@sharc-node007.shef.ac.uk     1        
+8839619 0.00000 target_0_T act17sz      r     04/07/2022 17:20:28 all.q@sharc-node108.shef.ac.uk     1        
+8839620 0.00000 target_1_T act17sz      r     04/07/2022 17:57:42 all.q@sharc-node107.shef.ac.uk     1        
+8839621 0.00000 target_1_T act17sz      r     04/08/2022 03:31:22 all.q@sharc-node101.shef.ac.uk     1        
+8839622 0.00000 target_1_T act17sz      r     04/08/2022 05:11:07 all.q@sharc-node159.shef.ac.uk     1        
+8839623 0.00000 target_1_T act17sz      r     04/08/2022 06:16:54 all.q@sharc-node020.shef.ac.uk     1        
+8839624 0.00000 target_1_T act17sz      r     04/08/2022 06:19:54 all.q@sharc-node041.shef.ac.uk     1        
+8839625 0.00000 target_2_T act17sz      r     04/08/2022 07:21:40 all.q@sharc-node015.shef.ac.uk     1        
+8839689 0.85210 rmem=50G   coq20tz      r     04/07/2022 17:03:48 acsehpc.q@sharc-node170.shef.a     1        
+8839955 0.00000 Chl_b_F.sh mbp21fsm     r     04/08/2022 03:00:02 gpu.q@sharc-node099.shef.ac.uk     1        
+8839960 0.00000 BChl_a_A.s mbp21fsm     r     04/08/2022 03:14:50 gpu.q@sharc-node099.shef.ac.uk     1        
+8839961 0.00000 BChl_a_B.s mbp21fsm     r     04/08/2022 03:22:20 gpu.q@sharc-node099.shef.ac.uk     1        
+8839962 0.00000 BChl_a_C.s mbp21fsm     r     04/08/2022 03:44:42 gpu.q@sharc-node099.shef.ac.uk     1        
+8839963 0.00000 BChl_a_D.s mbp21fsm     r     04/08/2022 04:18:09 gpu.q@sharc-node099.shef.ac.uk     1        
+8839964 0.00000 BChl_a_E.s mbp21fsm     r     04/08/2022 04:22:52 gpu.q@sharc-node099.shef.ac.uk     1        
+8839965 0.00000 BChl_a_F.s mbp21fsm     r     04/08/2022 04:29:37 gpu.q@sharc-node099.shef.ac.uk     1        
+8839991 0.00000 kOmBetaMin cop20ob      r     04/08/2022 05:40:10 all.q@sharc-node039.shef.ac.uk     4        
+8840009 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:11:35 all.q@sharc-node109.shef.ac.uk     1        
+8840010 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:16:35 all.q@sharc-node107.shef.ac.uk     1        
+8840011 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:18:50 all.q@sharc-node090.shef.ac.uk     1        
+8840012 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840013 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840014 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840015 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840016 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840017 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840018 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840019 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:19:05 all.q@sharc-node069.shef.ac.uk     1        
+8840020 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:25:20 all.q@sharc-node108.shef.ac.uk     1        
+8840021 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:25:20 all.q@sharc-node108.shef.ac.uk     1        
+8840022 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:25:20 all.q@sharc-node108.shef.ac.uk     1        
+8840023 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:28:05 all.q@sharc-node092.shef.ac.uk     1        
+8840024 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:28:35 all.q@sharc-node092.shef.ac.uk     1        
+8840025 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:29:05 all.q@sharc-node092.shef.ac.uk     1        
+8840026 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:42:07 all.q@sharc-node090.shef.ac.uk     1        
+8840027 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:59:07 all.q@sharc-node025.shef.ac.uk     1        
+8840028 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:59:07 all.q@sharc-node025.shef.ac.uk     1        
+8840029 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:59:07 all.q@sharc-node025.shef.ac.uk     1        
+8840030 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:59:07 all.q@sharc-node025.shef.ac.uk     1        
+8840031 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:59:07 all.q@sharc-node025.shef.ac.uk     1        
+8840032 0.00000 scan_RN.sh el1pr        r     04/07/2022 19:59:07 all.q@sharc-node025.shef.ac.uk     1        
+8840033 0.00000 scan_RN.sh el1pr        r     04/07/2022 20:05:07 all.q@sharc-node108.shef.ac.uk     1        
+8840034 0.00000 scan_RN.sh el1pr        r     04/07/2022 20:05:07 all.q@sharc-node090.shef.ac.uk     1        
+8840035 0.00000 scan_RN.sh el1pr        r     04/07/2022 20:05:07 all.q@sharc-node090.shef.ac.uk     1        
+8840036 0.00000 scan_RN.sh el1pr        r     04/07/2022 20:08:00 all.q@sharc-node092.shef.ac.uk     1        
+8840053 0.00000 optimizati mer20as      r     04/08/2022 00:19:12 all.q@sharc-node092.shef.ac.uk     1        
+8840094 0.00064 STDIN      fc1cna       r     04/07/2022 20:12:45 all.q@sharc-node082.shef.ac.uk     1        
+8840108 0.00064 STDIN      fc1cna       r     04/07/2022 20:46:10 all.q@sharc-node042.shef.ac.uk     1        
+8840131 0.00064 trimmed-RN fc1cna       r     04/08/2022 07:14:14 bioinf-core.q@sharc-node111.sh     3        
+8840132 0.00064 trimmed-RN fc1cna       r     04/08/2022 07:34:55 bioinf-core.q@sharc-node111.sh     3        
+8840133 0.00064 trimmed-RN fc1cna       r     04/08/2022 07:42:30 bioinf-core.q@sharc-node111.sh     3        
+8840134 0.00064 trimmed-RN fc1cna       r     04/08/2022 07:48:40 bioinf-core.q@sharc-node111.sh     3        
+8840135 0.00064 trimmed-RN fc1cna       r     04/08/2022 07:58:40 bioinf-core.q@sharc-node111.sh     3        
+8840284 0.00000 H1_fold-4. mdp19ja      r     04/07/2022 21:23:10 insigneo-polaris.q@sharc-node1     2        
+8840313 0.00000 NeuroSimSh elr21ww      r     04/07/2022 21:53:55 all.q@sharc-node042.shef.ac.uk     2        
+8840332 0.00000 norm.3.sh  aca19lw      r     04/07/2022 23:54:35 all.q@sharc-node050.shef.ac.uk     1 1
+8840332 0.00000 norm.3.sh  aca19lw      r     04/08/2022 00:02:35 all.q@sharc-node025.shef.ac.uk     1 2
+8840332 0.00000 norm.3.sh  aca19lw      r     04/08/2022 00:18:27 all.q@sharc-node109.shef.ac.uk     1 3
+8840332 0.00000 norm.3.sh  aca19lw      r     04/08/2022 00:46:57 all.q@sharc-node102.shef.ac.uk     1 4
+8840332 0.00000 norm.3.sh  aca19lw      r     04/08/2022 00:46:57 all.q@sharc-node102.shef.ac.uk     1 5
+8840332 0.00000 norm.3.sh  aca19lw      r     04/08/2022 00:47:42 all.q@sharc-node159.shef.ac.uk     1 6
+8840335 0.00000 norm.4.sh  aca19lw      r     04/08/2022 00:48:27 all.q@sharc-node107.shef.ac.uk     1 1
+8840335 0.00000 norm.4.sh  aca19lw      r     04/08/2022 00:52:12 all.q@sharc-node050.shef.ac.uk     1 2
+8840335 0.00000 norm.4.sh  aca19lw      r     04/08/2022 01:18:57 all.q@sharc-node102.shef.ac.uk     1 4
+8840393 0.00000 NeuroSimSh els21xl      r     04/07/2022 23:52:35 all.q@sharc-node007.shef.ac.uk     2        
+8840415 0.00000 NeuroSimSh els21xl      r     04/08/2022 00:30:09 all.q@sharc-node091.shef.ac.uk     2        
+8840466 0.00000 bash       acr21zl      r     04/08/2022 01:30:17 rse-com6012.q@sharc-node174.sh     1        
+8840486 0.00000 QRLOGIN    ac1yp        r     04/08/2022 02:31:30 interactive.q@sharc-node002.sh     1        
+8840487 0.04072 pipe_IVA   ac1yp        r     04/08/2022 02:35:59 tapas.q@sharc-node139.shef.ac.     1        
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:01:59 acsehpc.q@sharc-node167.shef.a     1 194
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:03:14 acsehpc.q@sharc-node172.shef.a     1 199
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:12:14 acsehpc.q@sharc-node167.shef.a     1 209
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:15:59 acsehpc.q@sharc-node165.shef.a     1 211
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:16:59 acsehpc.q@sharc-node170.shef.a     1 212
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:18:29 acsehpc.q@sharc-node172.shef.a     1 214
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:18:29 acsehpc.q@sharc-node167.shef.a     1 215
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:19:10 acsehpc.q@sharc-node167.shef.a     1 216
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:19:40 acsehpc.q@sharc-node172.shef.a     1 217
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:20:10 acsehpc.q@sharc-node172.shef.a     1 218
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:25:25 acsehpc.q@sharc-node172.shef.a     1 219
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:25:55 acsehpc.q@sharc-node167.shef.a     1 220
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:26:40 acsehpc.q@sharc-node170.shef.a     1 221
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:28:55 acsehpc.q@sharc-node167.shef.a     1 222
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:29:55 acsehpc.q@sharc-node171.shef.a     1 223
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:31:40 acsehpc.q@sharc-node167.shef.a     1 224
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:32:40 acsehpc.q@sharc-node171.shef.a     1 225
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:35:40 acsehpc.q@sharc-node172.shef.a     1 226
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:37:40 acsehpc.q@sharc-node171.shef.a     1 227
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:39:15 acsehpc.q@sharc-node165.shef.a     1 228
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:39:45 acsehpc.q@sharc-node165.shef.a     1 229
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:39:45 acsehpc.q@sharc-node167.shef.a     1 230
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:40:00 acsehpc.q@sharc-node172.shef.a     1 231
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:41:45 acsehpc.q@sharc-node172.shef.a     1 232
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:42:15 acsehpc.q@sharc-node167.shef.a     1 233
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:44:30 acsehpc.q@sharc-node167.shef.a     1 234
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:44:30 acsehpc.q@sharc-node170.shef.a     1 235
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:47:45 acsehpc.q@sharc-node170.shef.a     1 236
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:49:40 acsehpc.q@sharc-node172.shef.a     1 237
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:49:40 acsehpc.q@sharc-node165.shef.a     1 238
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:51:10 acsehpc.q@sharc-node170.shef.a     1 239
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:51:25 acsehpc.q@sharc-node170.shef.a     1 240
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:52:25 acsehpc.q@sharc-node171.shef.a     1 241
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:52:40 acsehpc.q@sharc-node165.shef.a     1 242
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:52:40 acsehpc.q@sharc-node170.shef.a     1 243
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:53:25 acsehpc.q@sharc-node171.shef.a     1 244
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:54:25 acsehpc.q@sharc-node171.shef.a     1 245
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:56:10 acsehpc.q@sharc-node165.shef.a     1 246
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 07:58:55 acsehpc.q@sharc-node172.shef.a     1 247
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 08:00:55 acsehpc.q@sharc-node172.shef.a     1 248
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 08:01:55 acsehpc.q@sharc-node172.shef.a     1 249
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 08:01:55 acsehpc.q@sharc-node171.shef.a     1 250
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 08:02:25 acsehpc.q@sharc-node165.shef.a     1 251
+8840507 0.00010 Part6_Redr cip18ar      r     04/08/2022 08:03:10 acsehpc.q@sharc-node165.shef.a     1 252
+8840533 0.00000 Test163    mep20kma     r     04/08/2022 04:03:42 all.q@sharc-node078.shef.ac.uk    40        
+8840591 0.00168 bash       acp21jka     r     04/08/2022 05:25:10 interactive.q@sharc-node002.sh     1        
+8840608 0.00000 QRLOGIN    md1iab       r     04/08/2022 06:30:51 interactive.q@sharc-node002.sh     1        
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node056.shef.ac.uk     1 152
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node023.shef.ac.uk     1 153
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node076.shef.ac.uk     1 154
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node108.shef.ac.uk     1 155
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node046.shef.ac.uk     1 156
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node046.shef.ac.uk     1 157
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node084.shef.ac.uk     1 158
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node084.shef.ac.uk     1 159
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node079.shef.ac.uk     1 160
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:40 all.q@sharc-node079.shef.ac.uk     1 161
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:55 all.q@sharc-node053.shef.ac.uk     1 162
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:55 all.q@sharc-node024.shef.ac.uk     1 163
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:55 all.q@sharc-node076.shef.ac.uk     1 164
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:55 all.q@sharc-node060.shef.ac.uk     1 165
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:55 all.q@sharc-node078.shef.ac.uk     1 166
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:49:55 all.q@sharc-node027.shef.ac.uk     1 167
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:50:10 all.q@sharc-node053.shef.ac.uk     1 168
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:50:10 all.q@sharc-node067.shef.ac.uk     1 169
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:50:25 all.q@sharc-node058.shef.ac.uk     1 170
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:59:55 all.q@sharc-node148.shef.ac.uk     1 171
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 07:59:55 all.q@sharc-node148.shef.ac.uk     1 172
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:00:25 all.q@sharc-node153.shef.ac.uk     1 173
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:00:25 all.q@sharc-node153.shef.ac.uk     1 174
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:00:40 all.q@sharc-node152.shef.ac.uk     1 175
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:00:40 all.q@sharc-node152.shef.ac.uk     1 176
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:01:25 all.q@sharc-node061.shef.ac.uk     1 177
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:01:40 all.q@sharc-node148.shef.ac.uk     1 178
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:01:55 all.q@sharc-node150.shef.ac.uk     1 179
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:10 all.q@sharc-node072.shef.ac.uk     1 180
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node028.shef.ac.uk     1 181
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node088.shef.ac.uk     1 182
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node061.shef.ac.uk     1 183
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node046.shef.ac.uk     1 184
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node046.shef.ac.uk     1 185
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node046.shef.ac.uk     1 186
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node046.shef.ac.uk     1 187
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node066.shef.ac.uk     1 188
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node066.shef.ac.uk     1 189
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node066.shef.ac.uk     1 190
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:25 all.q@sharc-node066.shef.ac.uk     1 191
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:40 all.q@sharc-node046.shef.ac.uk     1 192
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:40 all.q@sharc-node088.shef.ac.uk     1 193
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:40 all.q@sharc-node066.shef.ac.uk     1 194
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:40 all.q@sharc-node066.shef.ac.uk     1 195
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:40 all.q@sharc-node066.shef.ac.uk     1 196
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:40 all.q@sharc-node048.shef.ac.uk     1 197
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node032.shef.ac.uk     1 198
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node024.shef.ac.uk     1 199
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node056.shef.ac.uk     1 200
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node062.shef.ac.uk     1 201
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node028.shef.ac.uk     1 202
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node080.shef.ac.uk     1 203
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node080.shef.ac.uk     1 204
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:02:55 all.q@sharc-node048.shef.ac.uk     1 205
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:10 all.q@sharc-node081.shef.ac.uk     1 206
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:10 all.q@sharc-node062.shef.ac.uk     1 207
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:10 all.q@sharc-node023.shef.ac.uk     1 208
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:10 all.q@sharc-node023.shef.ac.uk     1 209
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:25 all.q@sharc-node067.shef.ac.uk     1 210
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:25 all.q@sharc-node023.shef.ac.uk     1 211
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:40 all.q@sharc-node046.shef.ac.uk     1 212
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:03:40 all.q@sharc-node044.shef.ac.uk     1 213
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:04:10 all.q@sharc-node044.shef.ac.uk     1 214
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:04:25 all.q@sharc-node062.shef.ac.uk     1 215
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:04:25 all.q@sharc-node032.shef.ac.uk     1 216
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:04:25 all.q@sharc-node056.shef.ac.uk     1 217
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:04:55 all.q@sharc-node056.shef.ac.uk     1 218
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:04:55 all.q@sharc-node027.shef.ac.uk     1 219
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:04:55 all.q@sharc-node072.shef.ac.uk     1 220
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:10 all.q@sharc-node088.shef.ac.uk     1 221
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:10 all.q@sharc-node088.shef.ac.uk     1 222
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:25 all.q@sharc-node088.shef.ac.uk     1 223
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:25 all.q@sharc-node023.shef.ac.uk     1 224
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:25 all.q@sharc-node023.shef.ac.uk     1 225
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:40 all.q@sharc-node023.shef.ac.uk     1 226
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:55 all.q@sharc-node023.shef.ac.uk     1 227
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:55 all.q@sharc-node072.shef.ac.uk     1 228
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:05:55 all.q@sharc-node072.shef.ac.uk     1 229
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:06:10 all.q@sharc-node072.shef.ac.uk     1 230
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:06:10 all.q@sharc-node081.shef.ac.uk     1 231
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:06:10 all.q@sharc-node081.shef.ac.uk     1 232
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:06:25 all.q@sharc-node081.shef.ac.uk     1 233
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:06:25 all.q@sharc-node081.shef.ac.uk     1 234
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:06:40 all.q@sharc-node067.shef.ac.uk     1 235
+8840626 0.00000 run_WC1.sh php18sjs     r     04/08/2022 08:06:40 all.q@sharc-node067.shef.ac.uk     1 236
+8840639 0.00372 SACCT-Benc elp21aau     r     04/08/2022 08:04:25 all.q@sharc-node039.shef.ac.uk     1        
+8834972 1.00000 sharc-node sa_cs1wf     qw    04/05/2022 09:48:31                                    1        
+8834975 0.50000 sharc-node sa_cs1wf     qw    04/05/2022 09:48:32                                    1        
+8834976 0.33333 sharc-node sa_cs1wf     qw    04/05/2022 09:48:32                                    1        
+8834977 0.25000 sharc-node sa_cs1wf     qw    04/05/2022 09:48:32                                    1        
+8834978 0.20000 sharc-node sa_cs1wf     qw    04/05/2022 09:48:32                                    1        
+8834980 0.16667 sharc-node sa_cs1wf     qw    04/05/2022 09:48:33                                    1        
+8834981 0.14286 sharc-node sa_cs1wf     qw    04/05/2022 09:48:33                                    1        
+8834982 0.12500 sharc-node sa_cs1wf     qw    04/05/2022 09:48:33                                    1        
+8834983 0.11111 sharc-node sa_cs1wf     qw    04/05/2022 09:48:33                                    1        
+8834985 0.10000 sharc-node sa_cs1wf     qw    04/05/2022 09:48:33                                    1        
+8834986 0.09091 sharc-node sa_cs1wf     qw    04/05/2022 09:48:34                                    1        
+8834987 0.08333 sharc-node sa_cs1wf     qw    04/05/2022 09:48:34                                    1        
+8835112 0.07692 sharc-node sa_cs1wf     qw    04/05/2022 11:12:23                                    1        
+8835113 0.07143 sharc-node sa_cs1wf     qw    04/05/2022 11:12:23                                    1        
+8835115 0.06667 sharc-node sa_cs1wf     qw    04/05/2022 11:12:24                                    1        
+8835116 0.06250 sharc-node sa_cs1wf     qw    04/05/2022 11:12:24                                    1        
+8835117 0.05882 sharc-node sa_cs1wf     qw    04/05/2022 11:12:24                                    1        
+8835118 0.05556 sharc-node sa_cs1wf     qw    04/05/2022 11:12:24                                    1        
+8835119 0.05263 sharc-node sa_cs1wf     qw    04/05/2022 11:12:24                                    1        
+8835120 0.05000 sharc-node sa_cs1wf     qw    04/05/2022 11:12:25                                    1        
+8835121 0.04762 sharc-node sa_cs1wf     qw    04/05/2022 11:12:25                                    1        
+8835127 0.04545 sharc-node sa_cs1wf     qw    04/05/2022 11:12:26                                    1        
+8835138 0.04348 sharc-node sa_cs1wf     qw    04/05/2022 11:12:58                                    1        
+8835141 0.04167 sharc-node sa_cs1wf     qw    04/05/2022 11:13:26                                    1        
+8835143 0.04000 sharc-node sa_cs1wf     qw    04/05/2022 11:13:26                                    1        
+8835144 0.03846 sharc-node sa_cs1wf     qw    04/05/2022 11:13:26                                    1        
+8835145 0.03704 sharc-node sa_cs1wf     qw    04/05/2022 11:13:26                                    1        
+8835146 0.03571 sharc-node sa_cs1wf     qw    04/05/2022 11:13:26                                    1        
+8835148 0.03448 sharc-node sa_cs1wf     qw    04/05/2022 11:13:27                                    1        
+8835149 0.03333 sharc-node sa_cs1wf     qw    04/05/2022 11:13:27                                    1        
+8835150 0.03226 sharc-node sa_cs1wf     qw    04/05/2022 11:13:27                                    1        
+8835151 0.03125 sharc-node sa_cs1wf     qw    04/05/2022 11:13:27                                    1        
+8835153 0.03030 sharc-node sa_cs1wf     qw    04/05/2022 11:13:28                                    1        
+8835157 0.02941 sharc-node sa_cs1wf     qw    04/05/2022 11:13:28                                    1        
+8835160 0.02857 sharc-node sa_cs1wf     qw    04/05/2022 11:13:29                                    1        
+8835161 0.02778 sharc-node sa_cs1wf     qw    04/05/2022 11:13:29                                    1        
+8835162 0.02703 sharc-node sa_cs1wf     qw    04/05/2022 11:13:29                                    1        
+8835163 0.02632 sharc-node sa_cs1wf     qw    04/05/2022 11:13:29                                    1        
+8835165 0.02564 sharc-node sa_cs1wf     qw    04/05/2022 11:13:30                                    1        
+8835168 0.02500 sharc-node sa_cs1wf     qw    04/05/2022 11:13:30                                    1        
+8835169 0.02439 sharc-node sa_cs1wf     qw    04/05/2022 11:13:30                                    1        
+8835170 0.02381 sharc-node sa_cs1wf     qw    04/05/2022 11:13:30                                    1        
+8835171 0.02326 sharc-node sa_cs1wf     qw    04/05/2022 11:13:31                                    1        
+8835172 0.02273 sharc-node sa_cs1wf     qw    04/05/2022 11:13:31                                    1        
+8835173 0.02222 sharc-node sa_cs1wf     qw    04/05/2022 11:13:31                                    1        
+8835174 0.02174 sharc-node sa_cs1wf     qw    04/05/2022 11:13:31                                    1        
+8835175 0.02128 sharc-node sa_cs1wf     qw    04/05/2022 11:13:31                                    1        
+8835176 0.02083 sharc-node sa_cs1wf     qw    04/05/2022 11:13:31                                    1        
+8835177 0.02041 sharc-node sa_cs1wf     qw    04/05/2022 11:13:32                                    1        
+8835178 0.02000 sharc-node sa_cs1wf     qw    04/05/2022 11:13:32                                    1        
+8835179 0.01961 sharc-node sa_cs1wf     qw    04/05/2022 11:13:32                                    1        
+8835180 0.01923 sharc-node sa_cs1wf     qw    04/05/2022 11:13:32                                    1        
+8835181 0.01887 sharc-node sa_cs1wf     qw    04/05/2022 11:13:32                                    1        
+8835182 0.01852 sharc-node sa_cs1wf     qw    04/05/2022 11:13:32                                    1        
+8835183 0.01818 sharc-node sa_cs1wf     qw    04/05/2022 11:13:33                                    1        
+8835184 0.01786 sharc-node sa_cs1wf     qw    04/05/2022 11:13:33                                    1        
+8835185 0.01754 sharc-node sa_cs1wf     qw    04/05/2022 11:13:33                                    1        
+8835187 0.01724 sharc-node sa_cs1wf     qw    04/05/2022 11:13:33                                    1        
+8835188 0.01695 sharc-node sa_cs1wf     qw    04/05/2022 11:13:33                                    1        
+8835189 0.01667 sharc-node sa_cs1wf     qw    04/05/2022 11:13:33                                    1        
+8835190 0.01639 sharc-node sa_cs1wf     qw    04/05/2022 11:13:34                                    1        
+8835191 0.01613 sharc-node sa_cs1wf     qw    04/05/2022 11:13:34                                    1        
+8835192 0.01587 sharc-node sa_cs1wf     qw    04/05/2022 11:13:34                                    1        
+8835193 0.01562 sharc-node sa_cs1wf     qw    04/05/2022 11:13:34                                    1        
+8835194 0.01538 sharc-node sa_cs1wf     qw    04/05/2022 11:13:34                                    1        
+8835195 0.01515 sharc-node sa_cs1wf     qw    04/05/2022 11:13:34                                    1        
+8835196 0.01493 sharc-node sa_cs1wf     qw    04/05/2022 11:13:35                                    1        
+8835197 0.01471 sharc-node sa_cs1wf     qw    04/05/2022 11:13:35                                    1        
+8835198 0.01449 sharc-node sa_cs1wf     qw    04/05/2022 11:13:35                                    1        
+8835200 0.01429 sharc-node sa_cs1wf     qw    04/05/2022 11:13:35                                    1        
+8835201 0.01408 sharc-node sa_cs1wf     qw    04/05/2022 11:13:35                                    1        
+8835202 0.01389 sharc-node sa_cs1wf     qw    04/05/2022 11:13:36                                    1        
+8835203 0.01370 sharc-node sa_cs1wf     qw    04/05/2022 11:13:36                                    1        
+8835204 0.01351 sharc-node sa_cs1wf     qw    04/05/2022 11:13:36                                    1        
+8835205 0.01333 sharc-node sa_cs1wf     qw    04/05/2022 11:13:36                                    1        
+8835206 0.01316 sharc-node sa_cs1wf     qw    04/05/2022 11:13:36                                    1        
+8835207 0.01299 sharc-node sa_cs1wf     qw    04/05/2022 11:13:36                                    1        
+8835208 0.01282 sharc-node sa_cs1wf     qw    04/05/2022 11:13:36                                    1        
+8835209 0.01266 sharc-node sa_cs1wf     qw    04/05/2022 11:13:37                                    1        
+8835215 0.01250 sharc-node sa_cs1wf     qw    04/05/2022 11:13:49                                    1        
+8835217 0.01235 sharc-node sa_cs1wf     qw    04/05/2022 11:13:49                                    1        
+8835218 0.01220 sharc-node sa_cs1wf     qw    04/05/2022 11:13:50                                    1        
+8835219 0.01205 sharc-node sa_cs1wf     qw    04/05/2022 11:14:00                                    1        
+8835220 0.01190 sharc-node sa_cs1wf     qw    04/05/2022 11:14:07                                    1        
+8720959 0.01185 my_job_DIP ace19cl      Eqw   02/20/2022 02:03:57                                    1        
+8835221 0.01176 sharc-node sa_cs1wf     qw    04/05/2022 11:14:20                                    1        
+8835222 0.01163 sharc-node sa_cs1wf     qw    04/05/2022 11:14:20                                    1        
+8835223 0.01149 sharc-node sa_cs1wf     qw    04/05/2022 11:14:20                                    1        
+8835224 0.01136 sharc-node sa_cs1wf     qw    04/05/2022 11:14:20                                    1        
+8835227 0.01124 sharc-node sa_cs1wf     qw    04/05/2022 11:14:21                                    1        
+8835228 0.01111 sharc-node sa_cs1wf     qw    04/05/2022 11:14:21                                    1        
+8835229 0.01099 sharc-node sa_cs1wf     qw    04/05/2022 11:14:29                                    1        
+8835230 0.01087 sharc-node sa_cs1wf     qw    04/05/2022 11:14:41                                    1        
+8835231 0.01075 sharc-node sa_cs1wf     qw    04/05/2022 11:14:41                                    1        
+8835232 0.01064 sharc-node sa_cs1wf     qw    04/05/2022 11:14:41                                    1        
+8720857 0.00495 my_job_scr ace19cl      Eqw   02/19/2022 21:09:58                                    1        
+8730952 0.00262 job_DIP_AR ace19cl      Eqw   02/22/2022 23:39:20                                    1        
+8821318 0.00002 Lab1_Submi acs20zs      Eqw   03/29/2022 23:08:37                                    2        
+8821316 0.00002 Lab1_Submi acs20zs      Eqw   03/29/2022 23:06:12                                    2        
+8819114 0.00001 Lab1_Submi acs20zs      Eqw   03/29/2022 00:25:05                                    2        
+8819113 0.00001 Lab1_Submi acs20zs      Eqw   03/29/2022 00:23:11                                    2        
+8821452 0.00001 QP1_HPC.sh acr21jz      Eqw   03/30/2022 02:43:09                                    2        
+8676231 0.00001 run_vac_v1 smr19sn      Eqw   02/08/2022 10:19:22                                    1        
+8736671 0.00001 HISAT2_60A boq21ajd     Eqw   02/24/2022 14:41:42                                    2        
+8736909 0.00001 HISAT2_60A boq21ajd     Eqw   02/24/2022 15:11:37                                    2        
+8736768 0.00001 HISAT2_60A boq21ajd     Eqw   02/24/2022 14:52:53                                    2        
+8736767 0.00001 HISAT2_60A boq21ajd     Eqw   02/24/2022 14:52:22                                    2        
+8736899 0.00001 HISAT2_60A boq21ajd     Eqw   02/24/2022 15:05:56                                    2        
+8682642 0.00001 Lab1_Submi acp21eyi     Eqw   02/11/2022 12:39:34                                    2        
+8782414 0.00001 jupyterhub co1ymm       Eqw   03/11/2022 12:00:11                                    1        
+8782396 0.00001 jupyterhub co1ymm       Eqw   03/11/2022 11:57:34                                    1        
+8782394 0.00001 jupyterhub co1ymm       Eqw   03/11/2022 11:55:42                                    1        
+8782443 0.00001 jupyterhub co1ymm       Eqw   03/11/2022 12:02:52                                    1        
+8782440 0.00001 jupyterhub co1ymm       Eqw   03/11/2022 12:01:53                                    1        
+8681723 0.00001 Lab1_Submi acp21yh      Eqw   02/10/2022 19:27:33                                    2        
+8681719 0.00001 Lab1_Submi acp21yh      Eqw   02/10/2022 19:21:44                                    2        
+8681341 0.00001 Lab1_Submi acp21eyi     Eqw   02/10/2022 14:11:16                                    2        
+8681325 0.00001 Lab1_Submi acp21eyi     Eqw   02/10/2022 14:08:04                                    2        
+8681323 0.00001 Lab1_Submi acp21eyi     Eqw   02/10/2022 14:07:36                                    2        
+8681327 0.00001 Lab1_Submi acp21eyi     Eqw   02/10/2022 14:09:33                                    2        
+8681237 0.00001 Lab1_Submi acr21ak      Eqw   02/10/2022 13:50:17                                    2        
+8681178 0.00001 Lab1_Submi acr21ak      Eqw   02/10/2022 13:44:46                                    2        
+8681607 0.00000 Lab1_exerc acr21qz      Eqw   02/10/2022 16:41:24                                    2        
+8681598 0.00000 Lab1_exerc acr21qz      Eqw   02/10/2022 16:37:52                                    2        
+8681602 0.00000 Lab1_exerc acr21qz      Eqw   02/10/2022 16:39:17                                    2        
+8824047 0.00000 QP1_HPC.sh acp20dm      Eqw   03/30/2022 14:21:12                                    2        
+8736569 0.00000 Lab1_Submi acr21qz      Eqw   02/24/2022 13:52:36                                    2        
+8821267 0.00000 Lab1_Submi acs20zs      Eqw   03/29/2022 22:26:17                                    2        
+8821270 0.00000 Lab1_Submi acs20zs      Eqw   03/29/2022 22:27:33                                    2        
+8784896 0.00000 SS2S_7     eia17hjb     Eqw   03/13/2022 16:24:00                                   40        
+8824289 0.00000 QP1_HPC.sh acr21jz      Eqw   03/30/2022 15:41:58                                    2        
+8801925 0.00000 Lab1_Submi acp21svp     Eqw   03/19/2022 17:54:33                                    2        
+8789732 0.00000 jupyterhub coa19fjs     Eqw   03/15/2022 19:15:52                                    1        
+8789706 0.00000 jupyterhub coa19fjs     Eqw   03/15/2022 18:41:37                                    1        
+8789703 0.00000 jupyterhub coa19fjs     Eqw   03/15/2022 18:40:05                                    1        
+8827029 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:26:08                                    2        
+8827065 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:39:19                                    2        
+8826879 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826880 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826881 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826882 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826883 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826884 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826885 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826886 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826887 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:32                                    2        
+8826888 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:33                                    2        
+8826889 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:33                                    2        
+8826890 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:33                                    2        
+8826891 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:33                                    2        
+8826892 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:33                                    2        
+8826893 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:02:33                                    2        
+8826953 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:17:11                                    2        
+8827067 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:39:27                                    2        
+8827068 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:39:35                                    2        
+8827069 0.00000 sharc_indv md1weih      Eqw   03/31/2022 16:39:43                                    2        
+8724340 0.00000 MD5calc.sh mdp21ckm     Eqw   02/21/2022 11:22:04                                    1        
+8839604 0.00000 lrscaf.sh  bo1dhp       qw    04/07/2022 16:23:45                                    4        
+8840063 0.00000 lrscaf.sh  bo1dhp       qw    04/07/2022 20:04:13                                    4        
+8838693 0.00000 pipe_DB    ac1yp        qw    04/07/2022 07:26:11                                    1        
+8824018 0.00000 ipet60-40. acb19lh      qw    03/30/2022 14:21:06                                    1        
+8824046 0.00000 ipet70-30. acb19lh      qw    03/30/2022 14:21:09                                    1        
+8829317 0.00000 HL_GINConv ace19cl      qw    04/01/2022 16:55:58                                    1        
+8824048 0.00000 ipet80-20. acb19lh      qw    03/30/2022 14:21:12                                    1        
+8829324 0.00000 POL_GINCon ace19cl      qw    04/01/2022 16:59:21                                    1        
+8824049 0.00000 ipet90-10. acb19lh      qw    03/30/2022 14:21:16                                    1        
+8829333 0.00000 PBE0_GINCo ace19cl      qw    04/01/2022 17:01:14                                    1        
+8834862 0.00000 PBE0_Graph ace19cl      qw    04/05/2022 05:49:00                                    1        
+8839657 0.00000 DIP_genera ace19cl      qw    04/07/2022 16:46:43                                    1        
+8839660 0.00000 DIP_genera ace19cl      qw    04/07/2022 16:48:59                                    1        
+8839662 0.00000 DIP_genera ace19cl      qw    04/07/2022 16:51:09                                    1        
+8839666 0.00000 DIP_genera ace19cl      qw    04/07/2022 16:55:04                                    1        
+8840269 0.00000 HL_general ace19cl      qw    04/07/2022 21:10:45                                    1        
+8840280 0.00000 HL_general ace19cl      qw    04/07/2022 21:15:25                                    1        
+8840296 0.00000 HL_general ace19cl      qw    04/07/2022 21:23:19                                    1        
+8840299 0.00000 HL_general ace19cl      qw    04/07/2022 21:27:25                                    1        
+8839229 0.00000 bash34.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839230 0.00000 bash35.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839231 0.00000 bash36.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839232 0.00000 bash37.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839233 0.00000 bash38.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839234 0.00000 bash39.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839235 0.00000 bash40.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839236 0.00000 bash41.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839237 0.00000 bash42.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839238 0.00000 bash43.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839239 0.00000 bash44.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839240 0.00000 bash45.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839241 0.00000 bash46.sh  ac1jjgg      qw    04/07/2022 14:53:32                                    1        
+8839242 0.00000 bash47.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839243 0.00000 bash48.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8840136 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:32                                    3        
+8839244 0.00000 bash49.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839245 0.00000 bash50.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839246 0.00000 bash51.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839247 0.00000 bash52.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839248 0.00000 bash53.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839249 0.00000 bash54.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839250 0.00000 bash55.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839251 0.00000 bash56.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839252 0.00000 bash57.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839253 0.00000 bash58.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839254 0.00000 bash59.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839255 0.00000 bash60.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839256 0.00000 bash61.sh  ac1jjgg      qw    04/07/2022 14:53:33                                    1        
+8839257 0.00000 bash62.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839258 0.00000 bash63.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839259 0.00000 bash64.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839260 0.00000 bash65.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839261 0.00000 bash66.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8840137 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:32                                    3        
+8839262 0.00000 bash67.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839263 0.00000 bash68.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839264 0.00000 bash69.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839265 0.00000 bash70.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839266 0.00000 bash71.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839267 0.00000 bash72.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839268 0.00000 bash73.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839269 0.00000 bash74.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839270 0.00000 bash75.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839271 0.00000 bash76.sh  ac1jjgg      qw    04/07/2022 14:53:34                                    1        
+8839272 0.00000 bash77.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839273 0.00000 bash78.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839274 0.00000 bash79.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839275 0.00000 bash80.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839276 0.00000 bash81.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839277 0.00000 bash82.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839278 0.00000 bash83.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839279 0.00000 bash84.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8840138 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:32                                    3        
+8839280 0.00000 bash85.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839281 0.00000 bash86.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839282 0.00000 bash87.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839283 0.00000 bash88.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839284 0.00000 bash89.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839285 0.00000 bash90.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839286 0.00000 bash91.sh  ac1jjgg      qw    04/07/2022 14:53:35                                    1        
+8839287 0.00000 bash92.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839288 0.00000 bash93.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839289 0.00000 bash94.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839290 0.00000 bash95.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839291 0.00000 bash96.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839292 0.00000 bash97.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839293 0.00000 bash98.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839294 0.00000 bash99.sh  ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839295 0.00000 bash100.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839296 0.00000 bash101.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839297 0.00000 bash102.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8840139 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:33                                    3        
+8839298 0.00000 bash103.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839299 0.00000 bash104.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839300 0.00000 bash105.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839301 0.00000 bash106.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839302 0.00000 bash107.sh ac1jjgg      qw    04/07/2022 14:53:36                                    1        
+8839303 0.00000 bash108.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839304 0.00000 bash109.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839305 0.00000 bash110.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839306 0.00000 bash111.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839307 0.00000 bash112.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839308 0.00000 bash113.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839309 0.00000 bash114.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839310 0.00000 bash115.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839311 0.00000 bash116.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839312 0.00000 bash117.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839313 0.00000 bash118.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839314 0.00000 bash119.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8839315 0.00000 bash120.sh ac1jjgg      qw    04/07/2022 14:53:37                                    1        
+8840140 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:33                                    3        
+8839316 0.00000 bash121.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839317 0.00000 bash122.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839318 0.00000 bash123.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839319 0.00000 bash124.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839320 0.00000 bash125.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839321 0.00000 bash126.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839322 0.00000 bash127.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839323 0.00000 bash128.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839324 0.00000 bash129.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839325 0.00000 bash130.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839326 0.00000 bash131.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839327 0.00000 bash132.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839328 0.00000 bash133.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839329 0.00000 bash134.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839330 0.00000 bash135.sh ac1jjgg      qw    04/07/2022 14:53:38                                    1        
+8839331 0.00000 bash136.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839332 0.00000 bash137.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839333 0.00000 bash138.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8840141 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:33                                    3        
+8839334 0.00000 bash139.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839335 0.00000 bash140.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839336 0.00000 bash141.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839337 0.00000 bash142.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839338 0.00000 bash143.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839339 0.00000 bash144.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839340 0.00000 bash145.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839341 0.00000 bash146.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839342 0.00000 bash147.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839343 0.00000 bash148.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839344 0.00000 bash149.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839345 0.00000 bash150.sh ac1jjgg      qw    04/07/2022 14:53:39                                    1        
+8839346 0.00000 bash151.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839347 0.00000 bash152.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839348 0.00000 bash153.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839349 0.00000 bash154.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839350 0.00000 bash155.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839351 0.00000 bash156.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8840142 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:34                                    3        
+8839352 0.00000 bash157.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839353 0.00000 bash158.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839354 0.00000 bash159.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839355 0.00000 bash160.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839356 0.00000 bash161.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839357 0.00000 bash162.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839358 0.00000 bash163.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839359 0.00000 bash164.sh ac1jjgg      qw    04/07/2022 14:53:40                                    1        
+8839360 0.00000 bash165.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839361 0.00000 bash166.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839362 0.00000 bash167.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839363 0.00000 bash168.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839364 0.00000 bash169.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839365 0.00000 bash170.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839366 0.00000 bash171.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839367 0.00000 bash172.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839368 0.00000 bash173.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839369 0.00000 bash174.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8840143 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:34                                    3        
+8839370 0.00000 bash175.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839371 0.00000 bash176.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839372 0.00000 bash177.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839373 0.00000 bash178.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839374 0.00000 bash179.sh ac1jjgg      qw    04/07/2022 14:53:41                                    1        
+8839375 0.00000 bash180.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839376 0.00000 bash181.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839377 0.00000 bash182.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839378 0.00000 bash183.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839379 0.00000 bash184.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839380 0.00000 bash185.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839381 0.00000 bash186.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839382 0.00000 bash187.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839383 0.00000 bash188.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839384 0.00000 bash189.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839385 0.00000 bash190.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839386 0.00000 bash191.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839387 0.00000 bash192.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8840144 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:34                                    3        
+8839388 0.00000 bash193.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839389 0.00000 bash194.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839390 0.00000 bash195.sh ac1jjgg      qw    04/07/2022 14:53:42                                    1        
+8839391 0.00000 bash196.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839392 0.00000 bash197.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839393 0.00000 bash198.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839394 0.00000 bash199.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839395 0.00000 bash200.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839396 0.00000 bash201.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839397 0.00000 bash202.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839398 0.00000 bash203.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839399 0.00000 bash204.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839400 0.00000 bash205.sh ac1jjgg      qw    04/07/2022 14:53:43                                    1        
+8839401 0.00000 bash206.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839402 0.00000 bash207.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839403 0.00000 bash208.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839404 0.00000 bash209.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839405 0.00000 bash210.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8840145 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:34                                    3        
+8839406 0.00000 bash211.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839407 0.00000 bash212.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839408 0.00000 bash213.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839409 0.00000 bash214.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839410 0.00000 bash215.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839411 0.00000 bash216.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839412 0.00000 bash217.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839413 0.00000 bash218.sh ac1jjgg      qw    04/07/2022 14:53:44                                    1        
+8839414 0.00000 bash219.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839415 0.00000 bash220.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839416 0.00000 bash221.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839417 0.00000 bash222.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839418 0.00000 bash223.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839419 0.00000 bash224.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839420 0.00000 bash225.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839421 0.00000 bash226.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839422 0.00000 bash227.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839423 0.00000 bash228.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8840146 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:35                                    3        
+8839424 0.00000 bash229.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839425 0.00000 bash230.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839426 0.00000 bash231.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839427 0.00000 bash232.sh ac1jjgg      qw    04/07/2022 14:53:45                                    1        
+8839428 0.00000 bash233.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839429 0.00000 bash234.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839430 0.00000 bash235.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839431 0.00000 bash236.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839432 0.00000 bash237.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839433 0.00000 bash238.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839434 0.00000 bash239.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839435 0.00000 bash240.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839436 0.00000 bash241.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839437 0.00000 bash242.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839438 0.00000 bash243.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839439 0.00000 bash244.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839440 0.00000 bash245.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8839441 0.00000 bash246.sh ac1jjgg      qw    04/07/2022 14:53:46                                    1        
+8840147 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:35                                    3        
+8839442 0.00000 bash247.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839443 0.00000 bash248.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839444 0.00000 bash249.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839445 0.00000 bash250.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839446 0.00000 bash251.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839447 0.00000 bash252.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839448 0.00000 bash253.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839449 0.00000 bash254.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839450 0.00000 bash255.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839451 0.00000 bash256.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839452 0.00000 bash257.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839453 0.00000 bash258.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839454 0.00000 bash259.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839455 0.00000 bash260.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839456 0.00000 bash261.sh ac1jjgg      qw    04/07/2022 14:53:47                                    1        
+8839457 0.00000 bash262.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839458 0.00000 bash263.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839459 0.00000 bash264.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8840148 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:35                                    3        
+8839460 0.00000 bash265.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839461 0.00000 bash266.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839462 0.00000 bash267.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839463 0.00000 bash268.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839464 0.00000 bash269.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839465 0.00000 bash270.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839466 0.00000 bash271.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839467 0.00000 bash272.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839468 0.00000 bash273.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839469 0.00000 bash274.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839470 0.00000 bash275.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839471 0.00000 bash276.sh ac1jjgg      qw    04/07/2022 14:53:48                                    1        
+8839472 0.00000 bash277.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839473 0.00000 bash278.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839474 0.00000 bash279.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839475 0.00000 bash280.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839476 0.00000 bash281.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839477 0.00000 bash282.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8840149 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:13:36                                    3        
+8839478 0.00000 bash283.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839479 0.00000 bash284.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839480 0.00000 bash285.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839481 0.00000 bash286.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839482 0.00000 bash287.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839483 0.00000 bash288.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839484 0.00000 bash289.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839485 0.00000 bash290.sh ac1jjgg      qw    04/07/2022 14:53:49                                    1        
+8839486 0.00000 bash291.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839487 0.00000 bash292.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839488 0.00000 bash293.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839489 0.00000 bash294.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839490 0.00000 bash295.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839491 0.00000 bash296.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839492 0.00000 bash297.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839493 0.00000 bash298.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839494 0.00000 bash299.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839495 0.00000 bash300.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8840181 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:46                                    3        
+8839496 0.00000 bash301.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839497 0.00000 bash302.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839498 0.00000 bash303.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839499 0.00000 bash304.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839500 0.00000 bash305.sh ac1jjgg      qw    04/07/2022 14:53:50                                    1        
+8839501 0.00000 bash306.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839502 0.00000 bash307.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839503 0.00000 bash308.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839504 0.00000 bash309.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839505 0.00000 bash310.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839506 0.00000 bash311.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839507 0.00000 bash312.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839508 0.00000 bash313.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839509 0.00000 bash314.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839510 0.00000 bash315.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839511 0.00000 bash316.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839512 0.00000 bash317.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839513 0.00000 bash318.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8840182 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:46                                    3        
+8839514 0.00000 bash319.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839515 0.00000 bash320.sh ac1jjgg      qw    04/07/2022 14:53:51                                    1        
+8839516 0.00000 bash321.sh ac1jjgg      qw    04/07/2022 14:53:52                                    1        
+8839517 0.00000 bash322.sh ac1jjgg      qw    04/07/2022 14:53:52                                    1        
+8839518 0.00000 bash323.sh ac1jjgg      qw    04/07/2022 14:53:52                                    1        
+8840183 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:47                                    3        
+8840184 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:47                                    3        
+8840185 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:48                                    3        
+8840186 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:48                                    3        
+8840187 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:48                                    3        
+8840188 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:48                                    3        
+8840189 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:49                                    3        
+8840190 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:49                                    3        
+8840191 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:49                                    3        
+8840192 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:50                                    3        
+8840193 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:50                                    3        
+8840194 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:50                                    3        
+8840195 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:51                                    3        
+8840196 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:51                                    3        
+8840197 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:51                                    3        
+8840198 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:52                                    3        
+8840199 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:52                                    3        
+8840200 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:52                                    3        
+8840201 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:53                                    3        
+8840202 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:53                                    3        
+8840203 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:53                                    3        
+8840204 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:54                                    3        
+8840205 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:54                                    3        
+8840206 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:54                                    3        
+8840207 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:55                                    3        
+8840208 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:55                                    3        
+8840209 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:55                                    3        
+8840210 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:56                                    3        
+8840211 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:56                                    3        
+8840212 0.00000 trimmed-RN fc1cna       qw    04/07/2022 20:46:56                                    3        
+8755851 0.00000 runme.sh   co1thx       Eqw   03/01/2022 09:44:18                                    1        
+7579866 0.00000 test.sh    cip18iy      qw    03/15/2021 12:37:17                                    1        
+7579907 0.00000 test.sh    cip18iy      qw    03/15/2021 13:09:14                                    1        
+7579931 0.00000 test.sh    cip18iy      qw    03/15/2021 13:17:58                                    1        
+8098381 0.00000 my_submit. acp20dl      qw    07/03/2021 00:50:01                                   10        
+7948286 0.00000 c3.sh      mep17hd      qw    06/16/2021 14:36:36                                    1        
+7948289 0.00000 c4.sh      mep17hd      qw    06/16/2021 14:37:49                                    1        
+7948290 0.00000 c5.sh      mep17hd      qw    06/16/2021 14:38:09                                    1        
+7167275 0.00000 Submit.sh  mt1cf        qw    01/03/2021 14:13:22                                    6        
+7948291 0.00000 c6.sh      mep17hd      qw    06/16/2021 14:38:27                                    1        
+8367695 0.00000 Q4_Script2 coa17gd      qw    10/04/2021 11:08:53                                   20        
+7951153 0.00000 c3.sh      mep17hd      qw    06/16/2021 23:44:24                                    1        
+7951154 0.00000 c4.sh      mep17hd      qw    06/16/2021 23:45:05                                    1        
+7951155 0.00000 c5.sh      mep17hd      qw    06/16/2021 23:45:12                                    1        
+7951156 0.00000 c6.sh      mep17hd      qw    06/16/2021 23:45:17                                    1        
+8279141 0.00000 run_find_s smp13sam     qw    09/09/2021 12:54:56                                    1        
+7992908 0.00000 ACDC_model acy20zw      qw    06/24/2021 13:09:21                                   10        
+8367697 0.00000 Q4_Script3 coa17gd      qw    10/04/2021 11:09:01                                   20        
+8775761 0.00000 re350-ic04 me1emq       qw    03/08/2022 17:05:09                                  192        
+7598105 0.00000 submit_sha bo1scm       qw    03/18/2021 11:52:26                                    1        
+8834752 0.00000 corks2d    sm4md        qw    04/05/2022 00:12:06                                  512        
+7684975 0.00000 Q2_HPC.sh  acr20xw      qw    04/17/2021 18:05:25                                    5        
+8211646 0.00000 train.clas bo4sam       qw    08/09/2021 11:49:34                                    1        
+8211653 0.00000 train.clas bo4sam       qw    08/09/2021 11:59:06                                    1        
+8194180 0.00000 free-slope ac1ar        qw    08/02/2021 15:34:06                                    1        
+7688701 0.00000 Q2_HPC.sh  acr20xw      qw    04/18/2021 20:25:20                                   10        
+8194181 0.00000 free-slope ac1ar        qw    08/02/2021 15:34:06                                    1        
+8194182 0.00000 free-slope ac1ar        qw    08/02/2021 15:34:06                                    1        
+8194183 0.00000 free-slope ac1ar        qw    08/02/2021 15:34:06                                    1        
+7729092 0.00000 balancing. acr20xw      qw    04/29/2021 10:09:40                                   16        
+8775163 0.00000 jupyterhub sa_acp19asa  Eqw   03/08/2022 10:48:50                                    1        
+8775156 0.00000 jupyterhub sa_acp19asa  Eqw   03/08/2022 10:47:51                                    1        
+8399151 0.00000 submission mep18eoi     qw    10/11/2021 07:02:00                                   16        
+8194184 0.00000 free-slope ac1ar        qw    08/02/2021 15:34:06                                    1        
+8194185 0.00000 free-slope ac1ar        qw    08/02/2021 15:34:06                                    1        
+8838935 0.00000 blast      bo4hvx       qw    04/07/2022 11:10:05                                    8        
+8839613 0.00000 Adrian_New fcr18ab      qw    04/07/2022 16:32:47                                    4        
+8774711 0.00000 ancom_16s  bop19gew     qw    03/07/2022 18:27:20                                    1        
+8399170 0.00000 submission mep18eoi     qw    10/11/2021 07:22:45                                   16        
+8399197 0.00000 submission mep18eoi     qw    10/11/2021 07:53:19                                   16        
+8399212 0.00000 submission mep18eoi     qw    10/11/2021 08:04:44                                   16        
+8839032 0.00000 genotyphi  md1cmsl      qw    04/07/2022 12:15:16                                    4        
+8399220 0.00000 submission mep18eoi     qw    10/11/2021 08:15:56                                   16        
+8840109 0.00000 run_singul mep18maf     qw    04/07/2022 20:13:12                                   12        
+8399230 0.00000 submission mep18eoi     qw    10/11/2021 08:24:54                                   16        
+8399233 0.00000 submission mep18eoi     qw    10/11/2021 08:29:18                                   16        
+8399250 0.00000 submission mep18eoi     qw    10/11/2021 08:56:43                                   16        
+8838898 0.00000 cosipy_run ggp21rni     qw    04/07/2022 10:26:10                                    8        
+8793710 0.00000 smp.sh     cir18ms      qw    03/16/2022 21:09:36                                    1        
+8835795 0.00000 cds_100min bo1bdo       qw    04/05/2022 16:23:04                                    8        
+8839594 0.00000 mykrobe    md1cmsl      qw    04/07/2022 16:10:45                                    8        
+8840056 0.00000 Intakewith eia18aez     qw    04/07/2022 19:48:21                                   16        
+8838754 0.00000 submit_pre bo1rmgo      qw    04/07/2022 08:58:18                                    1        
+8835851 0.00000 c2_hydmod. mbp20agb     qw    04/05/2022 17:03:59                                    2        
+8835064 0.00000 pipeflow   smp21sc      qw    04/05/2022 10:56:10                                   16        
+8834766 0.00000 run_EIS_te ac1jph       qw    04/05/2022 00:57:45                                    8        
+8835853 0.00000 iso_hydmod mbp20agb     qw    04/05/2022 17:04:10                                    2        
+8835854 0.00000 pc_hydmod. mbp20agb     qw    04/05/2022 17:04:21                                    2        
+8839591 0.00000 self_start mep20aj      qw    04/07/2022 16:10:04                                   48        
+8837453 0.00000 Transient_ mep20mb      qw    04/06/2022 15:46:16                                   64        
+8836108 0.00000 run.sh     mt1lsc       qw    04/05/2022 21:25:16                                   16        
+8838504 0.00000 simSearch_ liy20jm      qw    04/07/2022 00:27:36                                    2        
+8833025 0.00000 scriptfile fcp18sw      qw    04/04/2022 11:01:36                                  256        
+8836518 0.00000 EIS_10.sh  gg1jce       qw    04/06/2022 09:42:13                                   16        
+8838768 0.00000 C4single-c chp18rn      qw    04/07/2022 09:15:32                                   60        
+8838505 0.00000 simSearch_ liy20jm      qw    04/07/2022 00:27:39                                    2        
+8835879 0.00000 EthaneMD   mep17cra     qw    04/05/2022 17:14:25                                    8        
+8765636 0.00000 NO2Adduct. me1cmpa      qw    03/04/2022 14:47:22                                    8        
+8836533 0.00000 EthaneMD   mep17cra     qw    04/06/2022 10:04:31                                    8        
+8811983 0.00000 process_ve fs1as        qw    03/25/2022 02:17:24                                    1        
+8838807 0.00000 Zm-Ms71-RE bo1lpg       qw    04/07/2022 10:04:55                                    1 194-295:1
+8836535 0.00000 SulfinicAc mep17cra     qw    04/06/2022 10:05:39                                    8        
+8811985 0.00000 process_ve fs1as        qw    03/25/2022 02:17:24                                    1        
+8811987 0.00000 process_ve fs1as        qw    03/25/2022 02:17:25                                    1        
+8838405 0.00000 sharc_indv md1weih      qw    04/06/2022 23:27:38                                    2        
+8836536 0.00000 SulfonicAc mep17cra     qw    04/06/2022 10:06:45                                    8        
+8811993 0.00000 process_ve fs1as        qw    03/25/2022 02:23:27                                    1        
+8838406 0.00000 sharc_indv md1weih      qw    04/06/2022 23:27:38                                    2        
+8839626 0.00000 target_2_T act17sz      qw    04/07/2022 16:33:18                                    1        
+8811995 0.00000 process_ve fs1as        qw    03/25/2022 02:23:28                                    1        
+8838808 0.00000 Zm-NC350-R bo1lpg       qw    04/07/2022 10:04:56                                    1 1-295:1
+8839627 0.00000 target_2_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8838407 0.00000 sharc_indv md1weih      qw    04/06/2022 23:27:38                                    2        
+8836537 0.00000 SulfonicAc mep17cra     qw    04/06/2022 10:08:41                                    8        
+8802314 0.00000 PIPNO_HNO2 me1cmpa      qw    03/20/2022 09:50:54                                    6        
+8811997 0.00000 process_ve fs1as        qw    03/25/2022 02:23:28                                    1        
+8839628 0.00000 target_2_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8838408 0.00000 sharc_indv md1weih      qw    04/06/2022 23:27:38                                    2        
+8839629 0.00000 target_2_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8811999 0.00000 process_ve fs1as        qw    03/25/2022 02:26:24                                    1        
+8838938 0.00000 r30k       eia17ggl     qw    04/07/2022 11:13:38                                    4        
+8838409 0.00000 sharc_indv md1weih      qw    04/06/2022 23:27:38                                    2        
+8839630 0.00000 target_3_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8836538 0.00000 EthanoicAc mep17cra     qw    04/06/2022 10:09:34                                    8        
+8812001 0.00000 process_ve fs1as        qw    03/25/2022 02:26:25                                    1        
+8839631 0.00000 target_3_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8838410 0.00000 sharc_indv md1weih      qw    04/06/2022 23:27:38                                    2        
+8838809 0.00000 Zm-NC358-R bo1lpg       qw    04/07/2022 10:04:56                                    1 1-295:1
+8812003 0.00000 process_ve fs1as        qw    03/25/2022 02:26:25                                    1        
+8839632 0.00000 target_3_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8838977 0.00000 r2_5A      eia17ggl     qw    04/07/2022 11:36:06                                    4        
+8838633 0.00000 sharc_indv md1weih      qw    04/07/2022 06:18:10                                    2        
+8763526 0.00000 lab4.sh    acq21bl      Eqw   03/03/2022 12:45:46                                   10        
+8836539 0.00000 EthanoicAc mep17cra     qw    04/06/2022 10:10:25                                    8        
+8812005 0.00000 process_ve fs1as        qw    03/25/2022 02:29:38                                    1        
+8839633 0.00000 target_3_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8838634 0.00000 sharc_indv md1weih      qw    04/07/2022 06:18:10                                    2        
+8839145 0.00000 PBr55nm_22 php18lab     qw    04/07/2022 14:11:18                                   16        
+8763530 0.00000 lab4.sh    acq21bl      Eqw   03/03/2022 12:46:45                                   10        
+8839634 0.00000 target_3_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8812007 0.00000 process_ve fs1as        qw    03/25/2022 02:29:39                                    1        
+8837045 0.00000 Product_.6 me1cmpa      qw    04/06/2022 13:48:33                                    4        
+8838635 0.00000 sharc_indv md1weih      qw    04/07/2022 06:18:10                                    2        
+8838981 0.00000 r4_2       eia17ggl     qw    04/07/2022 11:38:44                                    4        
+8839635 0.00000 target_4_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8812009 0.00000 process_ve fs1as        qw    03/25/2022 02:29:39                                    1        
+8839636 0.00000 target_4_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8838636 0.00000 sharc_indv md1weih      qw    04/07/2022 06:18:10                                    2        
+8812013 0.00000 process_ve fs1as        qw    03/25/2022 02:35:26                                    1        
+8839637 0.00000 target_4_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8838638 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:00                                    2        
+8838989 0.00000 r20k       eia17ggl     qw    04/07/2022 11:42:16                                    8        
+8812015 0.00000 process_ve fs1as        qw    03/25/2022 02:35:26                                    1        
+8839638 0.00000 target_4_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8837076 0.00000 MeH+_NH3.2 me1cmpa      qw    04/06/2022 14:11:32                                    4        
+8838639 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:00                                    2        
+8839639 0.00000 target_4_T act17sz      qw    04/07/2022 16:33:19                                    1        
+8812017 0.00000 process_ve fs1as        qw    03/25/2022 02:35:27                                    1        
+8838640 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:00                                    2        
+8839555 0.00000 run.sh     mt1lsc       qw    04/07/2022 15:31:19                                   24        
+8812021 0.00000 process_ve fs1as        qw    03/25/2022 02:41:38                                    1        
+8838641 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:00                                    2        
+8812023 0.00000 process_ve fs1as        qw    03/25/2022 02:41:39                                    1        
+8838642 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:00                                    2        
+8837078 0.00000 AEMH+_H2.4 me1cmpa      qw    04/06/2022 14:12:34                                    4        
+8812025 0.00000 process_ve fs1as        qw    03/25/2022 02:41:40                                    1        
+8839146 0.00000 PBr55nm_24 php18lab     qw    04/07/2022 14:11:20                                   16        
+8838991 0.00000 r20k       eia17ggl     qw    04/07/2022 11:43:22                                    6        
+8838643 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:00                                    2        
+8812028 0.00000 process_ve fs1as        qw    03/25/2022 02:47:33                                    1        
+8838644 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:00                                    2        
+8812030 0.00000 process_ve fs1as        qw    03/25/2022 02:47:34                                    1        
+8838645 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812032 0.00000 process_ve fs1as        qw    03/25/2022 02:47:34                                    1        
+8837104 0.00000 AmideH+_.2 me1cmpa      qw    04/06/2022 14:36:21                                    4        
+8838646 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812038 0.00000 process_ve fs1as        qw    03/25/2022 02:53:38                                    1        
+8838647 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812040 0.00000 process_ve fs1as        qw    03/25/2022 02:53:39                                    1        
+8838648 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812042 0.00000 process_ve fs1as        qw    03/25/2022 02:53:40                                    1        
+8837498 0.00000 DEA_brea.6 me1cmpa      qw    04/06/2022 15:56:36                                    4        
+8838649 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812048 0.00000 process_ve fs1as        qw    03/25/2022 03:00:09                                    1        
+8838650 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8839147 0.00000 PBr55nm_26 php18lab     qw    04/07/2022 14:11:22                                   16        
+8812050 0.00000 process_ve fs1as        qw    03/25/2022 03:00:09                                    1        
+8838651 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812052 0.00000 process_ve fs1as        qw    03/25/2022 03:00:10                                    1        
+8838652 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8839072 0.00000 DEA_brea.1 me1cmpa      qw    04/07/2022 12:58:10                                    4        
+8812056 0.00000 process_ve fs1as        qw    03/25/2022 03:06:42                                    1        
+8838653 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812058 0.00000 process_ve fs1as        qw    03/25/2022 03:06:43                                    1        
+8838654 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812060 0.00000 process_ve fs1as        qw    03/25/2022 03:06:44                                    1        
+8838655 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812062 0.00000 process_ve fs1as        qw    03/25/2022 03:09:40                                    1        
+8839129 0.00000 Morpholi.2 me1cmpa      qw    04/07/2022 13:55:42                                    4        
+8838656 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:01                                    2        
+8812064 0.00000 process_ve fs1as        qw    03/25/2022 03:09:41                                    1        
+8838657 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:02                                    2        
+8812066 0.00000 process_ve fs1as        qw    03/25/2022 03:09:42                                    1        
+8839148 0.00000 PBr55nm_28 php18lab     qw    04/07/2022 14:11:24                                   16        
+8838658 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:02                                    2        
+8812068 0.00000 process_ve fs1as        qw    03/25/2022 03:12:48                                    1        
+8838659 0.00000 sharc_indv md1weih      qw    04/07/2022 06:19:02                                    2        
+8812070 0.00000 process_ve fs1as        qw    03/25/2022 03:12:48                                    1        
+8838573 0.00000 fluent-t16 mep19gz      qw    04/07/2022 03:05:39                                   16        
+8838664 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:04                                    2        
+8812072 0.00000 process_ve fs1as        qw    03/25/2022 03:12:49                                    1        
+8840515 0.00000 Test162    mep20kma     qw    04/08/2022 03:41:44                                   48        
+8838665 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:04                                    2        
+8812077 0.00000 process_ve fs1as        qw    03/25/2022 03:18:56                                    1        
+8838666 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:05                                    2        
+8812079 0.00000 process_ve fs1as        qw    03/25/2022 03:18:56                                    1        
+8838667 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:05                                    2        
+8812081 0.00000 process_ve fs1as        qw    03/25/2022 03:18:57                                    1        
+8838668 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:05                                    2        
+8812087 0.00000 process_ve fs1as        qw    03/25/2022 03:25:02                                    1        
+8838669 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:05                                    2        
+8812089 0.00000 process_ve fs1as        qw    03/25/2022 03:25:03                                    1        
+8839149 0.00000 PBr55nm_30 php18lab     qw    04/07/2022 14:11:26                                   16        
+8838670 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:48                                    2        
+8812091 0.00000 process_ve fs1as        qw    03/25/2022 03:25:04                                    1        
+8838671 0.00000 sharc_indv md1weih      qw    04/07/2022 06:31:48                                    2        
+8812373 0.00000 process_ve fs1as        qw    03/25/2022 09:03:52                                    1        
+8812375 0.00000 process_ve fs1as        qw    03/25/2022 09:03:53                                    1        
+8812377 0.00000 process_ve fs1as        qw    03/25/2022 09:03:54                                    1        
+8837522 0.00000 Transient_ mep20mb      qw    04/06/2022 15:59:12                                   64        
+8812384 0.00000 process_ve fs1as        qw    03/25/2022 09:10:02                                    1        
+8812386 0.00000 process_ve fs1as        qw    03/25/2022 09:10:03                                    1        
+8833753 0.00000 lum22.scri ph1pgz       qw    04/04/2022 16:05:29                                   32        
+8812388 0.00000 process_ve fs1as        qw    03/25/2022 09:10:04                                    1        
+8839009 0.00000 fluent-t16 mep19gz      qw    04/07/2022 11:55:59                                   16        
+8812411 0.00000 process_ve fs1as        qw    03/25/2022 09:23:11                                    1        
+8840626 0.00000 run_WC1.sh php18sjs     qw    04/08/2022 07:35:21                                    1 237-401:1
+8812413 0.00000 process_ve fs1as        qw    03/25/2022 09:23:12                                    1        
+8812415 0.00000 process_ve fs1as        qw    03/25/2022 09:23:13                                    1        
+8812432 0.00000 process_ve fs1as        qw    03/25/2022 09:29:22                                    1        
+8812434 0.00000 process_ve fs1as        qw    03/25/2022 09:29:22                                    1        
+8812436 0.00000 process_ve fs1as        qw    03/25/2022 09:29:23                                    1        
+8812485 0.00000 process_ve fs1as        qw    03/25/2022 09:35:45                                    1        
+8812487 0.00000 process_ve fs1as        qw    03/25/2022 09:35:46                                    1        
+8812489 0.00000 process_ve fs1as        qw    03/25/2022 09:35:46                                    1        
+8812507 0.00000 process_ve fs1as        qw    03/25/2022 09:47:34                                    1        
+8812509 0.00000 process_ve fs1as        qw    03/25/2022 09:47:35                                    1        
+8812511 0.00000 process_ve fs1as        qw    03/25/2022 09:47:36                                    1        
+8812535 0.00000 process_ve fs1as        qw    03/25/2022 10:01:40                                    1        
+8812537 0.00000 process_ve fs1as        qw    03/25/2022 10:01:41                                    1        
+8839167 0.00000 fluent-t16 mep19gz      qw    04/07/2022 14:28:46                                   16        
+8812539 0.00000 process_ve fs1as        qw    03/25/2022 10:01:42                                    1        
+8812552 0.00000 process_ve fs1as        qw    03/25/2022 10:05:22                                    1        
+8812554 0.00000 process_ve fs1as        qw    03/25/2022 10:05:23                                    1        
+8812556 0.00000 process_ve fs1as        qw    03/25/2022 10:05:24                                    1        
+8838133 0.00000 rs_ns.sh   me1jhe       qw    04/06/2022 21:37:55                                   64        
+8812573 0.00000 process_ve fs1as        qw    03/25/2022 10:09:21                                    1        
+8812575 0.00000 process_ve fs1as        qw    03/25/2022 10:09:22                                    1        
+8812577 0.00000 process_ve fs1as        qw    03/25/2022 10:09:23                                    1        
+8812588 0.00000 process_ve fs1as        qw    03/25/2022 10:15:27                                    1        
+8812590 0.00000 process_ve fs1as        qw    03/25/2022 10:15:27                                    1        
+8812592 0.00000 process_ve fs1as        qw    03/25/2022 10:15:28                                    1        
+8812596 0.00000 process_ve fs1as        qw    03/25/2022 10:18:27                                    1        
+8833756 0.00000 lum23.scri ph1pgz       qw    04/04/2022 16:05:31                                   32        
+8812598 0.00000 process_ve fs1as        qw    03/25/2022 10:18:27                                    1        
+8812601 0.00000 process_ve fs1as        qw    03/25/2022 10:18:28                                    1        
+8812612 0.00000 process_ve fs1as        qw    03/25/2022 10:24:19                                    1        
+8812614 0.00000 process_ve fs1as        qw    03/25/2022 10:24:20                                    1        
+8812616 0.00000 process_ve fs1as        qw    03/25/2022 10:24:21                                    1        
+8838882 0.00000 lum_job.sh php21sr      qw    04/07/2022 10:15:26                                   64        
+8812626 0.00000 process_ve fs1as        qw    03/25/2022 10:30:54                                    1        
+8812628 0.00000 process_ve fs1as        qw    03/25/2022 10:30:54                                    1        
+8812630 0.00000 process_ve fs1as        qw    03/25/2022 10:30:55                                    1        
+8840627 0.00000 run_WC2.sh php18sjs     qw    04/08/2022 07:36:34                                    1 1-401:1
+8837544 0.00000 Steady.job mep20mb      qw    04/06/2022 16:03:43                                   32        
+8833757 0.00000 lum24.scri ph1pgz       qw    04/04/2022 16:05:33                                   32        
+8834211 0.00000 Old9JOB.jo mea18ame     qw    04/04/2022 17:14:03                                   64        
+8840628 0.00000 run_WC3.sh php18sjs     qw    04/08/2022 07:37:34                                    1 1-401:1
+8833758 0.00000 lum25.scri ph1pgz       qw    04/04/2022 16:05:35                                   32        
+8838771 0.00000 C4single-c chp18rn      qw    04/07/2022 09:18:35                                   60        
+8836937 0.00000 lum26.scri ph1pgz       qw    04/06/2022 13:12:03                                   32        
+8838778 0.00000 C4single-c chp18rn      qw    04/07/2022 09:22:38                                   60        
+8838785 0.00000 C4single   chp18rn      qw    04/07/2022 09:39:56                                   16        
+8838788 0.00000 C4single   chp18rn      qw    04/07/2022 09:41:11                                   16        
+8838790 0.00000 C4single   chp18rn      qw    04/07/2022 09:44:10                                   16        
+8838895 0.00000 C4single-c chp18rn      qw    04/07/2022 10:23:43                                   60        
+8838911 0.00000 C4single-c chp18rn      qw    04/07/2022 10:46:12                                   60        
+8838946 0.00000 C4single-c chp18rn      qw    04/07/2022 11:21:38                                   60        
+8839001 0.00000 C4single-c chp18rn      qw    04/07/2022 11:53:35                                   60        
+7431301 0.00000 trimmomati boq20hr      qw    02/16/2021 11:30:57                                    1 1-3:1
+7431343 0.00000 trimmomati bop20ecw     qw    02/16/2021 11:43:37                                    1 1-3:1
+7431381 0.00000 trimmomati bop20bch     qw    02/16/2021 11:59:51                                    1 1-3:1
+7432665 0.00000 trimmomati bod17em      qw    02/16/2021 14:15:32                                    1 1-3:1
+7440965 0.00000 trimmomati boa16caw     qw    02/17/2021 10:41:52                                    1 1-3:1
+7440997 0.00000 trimmomati boa17mwn     qw    02/17/2021 10:45:48                                    1 1-3:1
+7567848 0.00000 Q1_sctript acs20cj      qw    03/12/2021 10:12:50                                   30        
+7567849 0.00000 Q1_sctript acs20cj      qw    03/12/2021 10:12:55                                   30        
+7567907 0.00000 Q2_sctript acs20cj      qw    03/12/2021 10:36:41                                   30        
+7567920 0.00000 Q2_sctript acs20cj      qw    03/12/2021 10:41:32                                   30        
+7567924 0.00000 Q2_sctript acs20cj      qw    03/12/2021 10:42:26                                   30        
+7568035 0.00000 Q2_sctript acs20cj      qw    03/12/2021 10:54:35                                   30        
+7716578 0.00000 Q2_preproc acp20cog     qw    04/26/2021 21:39:45                                   10        
+7716592 0.00000 Q2_preproc acp20cog     qw    04/26/2021 21:45:59                                   10        
+7740035 0.00000 AS2_2.sh   acp20cm      qw    05/03/2021 04:03:05                                   10        
+8139676 0.00000 projecttry acs19jy      qw    07/14/2021 05:15:52                                    2        
+8139678 0.00000 myproject. acs19jy      qw    07/14/2021 05:18:05                                    1        
+8190488 0.00000 project_tr acs19jy      qw    07/31/2021 03:12:13                                    2        
+8192014 0.00000 try2.sh    acs19jy      qw    08/01/2021 04:56:02                                    2        
+8244401 0.00000 Dissertati acp20tjm     qw    08/25/2021 11:03:54                                    6        
+8464476 0.00000 igpk2.sh   mip18ma      qw    11/03/2021 23:32:05                                    4        
+8738444 0.00000 P134_MPI_s md4sxg       Eqw   02/25/2022 01:53:53                                    4        
+8738445 0.00000 P134_smp_s md4sxg       Eqw   02/25/2022 01:54:15                                   28        
+8754673 0.00000 P134_smp_s md4sxg       Eqw   03/01/2022 01:13:47                                   28        
+8801941 0.00000 exercise.s acp21yt      Eqw   03/19/2022 18:05:48                                    1        
+8801942 0.00000 exercise.s acp21yt      Eqw   03/19/2022 18:08:44                                    1        
+8801944 0.00000 exercise.s acp21yt      Eqw   03/19/2022 18:09:34                                    1        
+8814987 0.00000 QP1_HPC.sh acr21tz      Eqw   03/25/2022 17:09:59                                   10        
+8821298 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 22:48:46                                    4        
+8821301 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 22:55:03                                    4        
+8821304 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 22:59:14                                    4        
+8821310 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 23:01:06                                    4        
+8821312 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 23:03:25                                    4        
+8821314 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 23:04:14                                    4        
+8821324 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 23:11:33                                    4        
+8821327 0.00000 QP1_HPC.sh acs20zs      Eqw   03/29/2022 23:12:04                                    4        
+8827319 0.00000 do.sh      acp21yt      Eqw   03/31/2022 17:25:50                                    4        
+8827322 0.00000 do.sh      acp21yt      Eqw   03/31/2022 17:27:52                                    4        
+8834249 0.00000 train.sh   acb19bs      qw    04/04/2022 17:28:49                                    1        
+8836425 0.00000 pet20-80-3 acb19lh      qw    04/06/2022 07:47:49                                    1        
+8836426 0.00000 pet20-80-a acb19lh      qw    04/06/2022 07:47:52                                    1        
+8836427 0.00000 pet30-70-0 acb19lh      qw    04/06/2022 07:47:58                                    1        
+8836428 0.00000 pet30-70-1 acb19lh      qw    04/06/2022 07:48:00                                    1        
+8836429 0.00000 pet30-70-2 acb19lh      qw    04/06/2022 07:48:02                                    1        
+8836430 0.00000 pet30-70-3 acb19lh      qw    04/06/2022 07:48:04                                    1        
+8836431 0.00000 pet30-70-a acb19lh      qw    04/06/2022 07:48:07                                    1        
+8836432 0.00000 pet40-60-0 acb19lh      qw    04/06/2022 07:48:20                                    1        
+8836433 0.00000 pet40-60-1 acb19lh      qw    04/06/2022 07:48:22                                    1        
+8836434 0.00000 pet40-60-2 acb19lh      qw    04/06/2022 07:48:25                                    1        
+8836435 0.00000 pet40-60-3 acb19lh      qw    04/06/2022 07:48:27                                    1        
+8836437 0.00000 pet40-60-a acb19lh      qw    04/06/2022 07:48:30                                    1        
+8836438 0.00000 pet50-50-0 acb19lh      qw    04/06/2022 07:49:23                                    1        
+8836439 0.00000 pet50-50-1 acb19lh      qw    04/06/2022 07:49:25                                    1        
+8836440 0.00000 pet50-50-2 acb19lh      qw    04/06/2022 07:49:27                                    1        
+8836441 0.00000 pet50-50-3 acb19lh      qw    04/06/2022 07:49:29                                    1        
+8836442 0.00000 pet50-50-a acb19lh      qw    04/06/2022 07:49:31                                    1        
+8836443 0.00000 pet60-40-0 acb19lh      qw    04/06/2022 07:49:36                                    1        
+8836444 0.00000 pet60-40-1 acb19lh      qw    04/06/2022 07:49:38                                    1        
+8836445 0.00000 pet60-40-2 acb19lh      qw    04/06/2022 07:49:41                                    1        
+8836446 0.00000 pet60-40-3 acb19lh      qw    04/06/2022 07:49:43                                    1        
+8836447 0.00000 pet60-40-a acb19lh      qw    04/06/2022 07:49:47                                    1        
+8836449 0.00000 pet70-30-0 acb19lh      qw    04/06/2022 07:49:52                                    1        
+8836450 0.00000 pet70-30-1 acb19lh      qw    04/06/2022 07:49:56                                    1        
+8836451 0.00000 pet70-30-2 acb19lh      qw    04/06/2022 07:49:58                                    1        
+8836452 0.00000 pet70-30-3 acb19lh      qw    04/06/2022 07:50:00                                    1        
+8836453 0.00000 pet70-30-a acb19lh      qw    04/06/2022 07:50:02                                    1        
+8836454 0.00000 pet80-20-0 acb19lh      qw    04/06/2022 07:50:08                                    1        
+8836455 0.00000 pet80-20-1 acb19lh      qw    04/06/2022 07:50:10                                    1        
+8836456 0.00000 pet80-20-2 acb19lh      qw    04/06/2022 07:50:12                                    1        
+8836457 0.00000 pet80-20-3 acb19lh      qw    04/06/2022 07:50:15                                    1        
+8836458 0.00000 pet80-20-a acb19lh      qw    04/06/2022 07:50:18                                    1        
+8836459 0.00000 pet90-10-0 acb19lh      qw    04/06/2022 07:50:22                                    1        
+8836460 0.00000 pet90-10-1 acb19lh      qw    04/06/2022 07:50:24                                    1        
+8836461 0.00000 pet90-10-2 acb19lh      qw    04/06/2022 07:50:26                                    1        
+8836462 0.00000 pet90-10-3 acb19lh      qw    04/06/2022 07:50:29                                    1        
+8836463 0.00000 pet90-10-a acb19lh      qw    04/06/2022 07:50:32                                    1        
+8837189 0.00000 run.sh     mep19whh     qw    04/06/2022 15:25:18                                    1        
+8837681 0.00000 train2.sh  acb19bs      qw    04/06/2022 16:47:20                                    1        
+8838781 0.00000 run.sh     mep19whh     qw    04/07/2022 09:29:26                                    1        
+8838811 0.00000 packered_C mbp21fsm     qw    04/07/2022 10:12:05                                    1        
+8838812 0.00000 packered_9 mbp21fsm     qw    04/07/2022 10:13:51                                    1        
+8838881 0.00000 packered_8 mbp21fsm     qw    04/07/2022 10:15:25                                    1        
+8838883 0.00000 packered_7 mbp21fsm     qw    04/07/2022 10:16:18                                    1        
+8838889 0.00000 packered_6 mbp21fsm     qw    04/07/2022 10:21:55                                    1        
+8838891 0.00000 packered_5 mbp21fsm     qw    04/07/2022 10:22:38                                    1        
+8838892 0.00000 packered_4 mbp21fsm     qw    04/07/2022 10:23:20                                    1        
+8838896 0.00000 packered_3 mbp21fsm     qw    04/07/2022 10:23:54                                    1        
+8838897 0.00000 packered_2 mbp21fsm     qw    04/07/2022 10:24:32                                    1        
+8839967 0.00000 BChl_a_G.s mbp21fsm     qw    04/07/2022 18:19:42                                    1        
+8840306 0.00000 multi_powe acp20mr      qw    04/07/2022 21:40:31                                    1 1-5:1
+8840500 0.00000 sthv2.sh   aca19hq      qw    04/08/2022 03:07:53                                    1        

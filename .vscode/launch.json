@@ -21,8 +21,9 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                 "--num_steps","402"
-            ]
+                 "--cuda", "True"
+            ],
+            "cwd": "${workspaceFolder}/SACCT"
         },
         {
             "name": "sacwo",

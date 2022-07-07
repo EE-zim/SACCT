@@ -105,10 +105,6 @@ def random_actor(num_of_bitrate):
 #def bitrate_request(last_bit):
 
 
-
-
-
-
 def cvxpy(s0,s1,transcoding_bitrate):
     para_a=bandwidth*N0*1000.0/(s0*1000.0)
     para_b=candidate_bitrate[int(np.round(s1))]*(10.0**6)*T/bandwidth

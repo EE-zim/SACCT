@@ -1,0 +1,29 @@
+/var/spool/sge/sharc-node099/job_scripts/9233525: line 5: activate: No such file or directory
+  Cache entry deserialization failed, entry ignored
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/pip/basecommand.py", line 215, in main
+    status = self.run(options, args)
+  File "/usr/lib/python3.6/site-packages/pip/commands/install.py", line 365, in run
+    strip_file_prefix=options.strip_file_prefix,
+  File "/usr/lib/python3.6/site-packages/pip/req/req_set.py", line 789, in install
+    **kwargs
+  File "/usr/lib/python3.6/site-packages/pip/req/req_install.py", line 854, in install
+    strip_file_prefix=strip_file_prefix
+  File "/usr/lib/python3.6/site-packages/pip/req/req_install.py", line 1069, in move_wheel_files
+    strip_file_prefix=strip_file_prefix,
+  File "/usr/lib/python3.6/site-packages/pip/wheel.py", line 345, in move_wheel_files
+    clobber(source, lib_dir, True)
+  File "/usr/lib/python3.6/site-packages/pip/wheel.py", line 287, in clobber
+    ensure_dir(dest)  # common for the 'include' path
+  File "/usr/lib/python3.6/site-packages/pip/utils/__init__.py", line 83, in ensure_dir
+    os.makedirs(path)
+  File "/usr/lib64/python3.6/os.py", line 210, in makedirs
+    makedirs(head, mode, exist_ok)
+  File "/usr/lib64/python3.6/os.py", line 220, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/usr/local/lib64/python3.6'
+Traceback (most recent call last):
+  File "main.py", line 4, in <module>
+    import numpy as np
+ImportError: No module named numpy

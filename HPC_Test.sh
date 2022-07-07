@@ -1,15 +1,10 @@
 #!/bin/bash
-# environment Initialization
-module load apps/python/conda 
+#$ -l rmem=12G
+#$ -l gpu=1
+#$ -M zliu73@sheffield.ac.uk
+#$ -m abe
+module load apps/python/conda
 module load libs/cudnn/8.0.5.39/binary-cuda-11.1.1
-# Shell Script Excute
-python main.py --num_steps 402 >> mainPyLog
-# Function Defin
-function errorExist(){
-    previousCondition = $?
-    if previousCondition -ne 0
-    then 
-        echo 'errorExist' >errorExistLog
-        exit
-    fi
-}
+source activate pytorch
+cd /home/elp21aau/SACCT/SACCT
+python3 main.py --num_steps 402 >> mainPyLog

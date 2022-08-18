@@ -1,1 +1,0 @@
-## this is the dessertation wirting for the dessertation project

@@ -1,0 +1,268 @@
+<html>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+      <div class="mermaid">
+    
+        classDiagram
+          class Adam {
+            step(closure)
+          }
+          class AvgPool1d {
+            ceil_mode : bool
+            ceil_mode : bool
+            count_include_pad : bool
+            count_include_pad : bool
+            kernel_size
+            kernel_size : tuple
+            padding
+            padding : int, tuple
+            stride
+            stride : tuple, NoneType
+            forward(input: Tensor) Tensor
+          }
+          class DeterministicPolicy {
+            action_bias : float
+            action_scale : float
+            linear1
+            linear2
+            mean
+            noise
+            forward(state)
+            sample(state)
+            to(device)
+          }
+          class Dropout {
+            forward(input: Tensor) Tensor
+          }
+          class Embedding {
+            embedding_dim : int
+            embedding_dim : int
+            max_norm : Optional[float]
+            max_norm : Optional[float]
+            norm_type : float
+            norm_type : float
+            num_embeddings : int
+            num_embeddings : int
+            padding_idx : Optional[int]
+            padding_idx : Optional[int]
+            scale_grad_by_freq : bool
+            scale_grad_by_freq : bool
+            sparse : bool
+            sparse : bool
+            weight
+            weight
+            extra_repr() str
+            forward(input: Tensor) Tensor
+            from_pretrained(embeddings, freeze, padding_idx, max_norm, norm_type, scale_grad_by_freq, sparse)
+            reset_parameters() None
+          }
+          class GELU {
+            forward(x)
+          }
+          class GaussianPolicy {
+            action_bias
+            action_scale
+            linear1
+            linear2
+            log_std_linear
+            mean_linear
+            forward(state)
+            sample(state)
+            to(device)
+          }
+          class LayerNorm {
+            bias
+            elementwise_affine : bool
+            elementwise_affine : bool
+            eps : float
+            eps : float
+            normalized_shape : Tuple[int, ...]
+            normalized_shape : tuple
+            weight
+            extra_repr() str
+            forward(input: Tensor) Tensor
+            reset_parameters() None
+          }
+          class Linear {
+            bias
+            in_features : int
+            in_features : int
+            out_features : int
+            out_features : int
+            weight
+            weight
+            extra_repr() str
+            forward(input: Tensor) Tensor
+            reset_parameters() None
+          }
+          class ModuleList {
+            append(module: Module) 'ModuleList'
+            extend(modules: Iterable[Module]) 'ModuleList'
+            forward()
+            insert(index: int, module: Module) None
+          }
+          class OrderedDict {
+            move_to_end(key, last)
+          }
+          class Parameter {
+            requires_grad : bool
+          }
+          class PositionalEncoding {
+            dropout
+            forward(x)
+          }
+          class QNetwork {
+            action_one_hot
+            active
+            embeds_action
+            embeds_action_
+            embeds_state
+            embeds_state_
+            ffn_norm1
+            ffn_norm2
+            ffn_norm3
+            ffn_norm4
+            ffn_norm5
+            ffn_norm6
+            ffn_norm7
+            ffn_norm8
+            head_dim : int
+            linear2
+            linear3
+            linear5
+            linear6
+            pool
+            pos_encoder
+            transformer_encoder1
+            transformer_encoder4
+            forward(state, action)
+          }
+          class ReplayMemory {
+            buffer : list
+            capacity
+            position : int
+            push(state, action, reward, next_state, done)
+            sample(batch_size)
+          }
+          class SAC {
+            alpha : int
+            alpha_optim
+            automatic_entropy_tuning : bool
+            critic
+            critic_optim
+            critic_target
+            device
+            gamma
+            log_alpha
+            policy
+            policy_optim
+            policy_type
+            target_entropy
+            target_update_interval
+            tau
+            load_model(actor_path, critic_path)
+            save_model(env_name, suffix, actor_path, critic_path)
+            select_action(state, evaluate)
+            update_parameters(memory, batch_size, updates)
+          }
+          class Tensor {
+            data
+            detach
+            detach_
+            grad
+            requires_grad
+            retains_grad : bool
+            align_to()
+            backward(gradient, retain_graph, create_graph, inputs)
+            is_shared()
+            istft(n_fft: int, hop_length: Optional[int], win_length: Optional[int], window: 'Optional[Tensor]', center: bool, normalized: bool, onesided: Optional[bool], length: Optional[int], return_complex: bool)
+            lu(pivot, get_infos)
+            norm(p, dim, keepdim, dtype)
+            refine_names()
+            register_hook(hook)
+            reinforce(reward)
+            rename()
+            rename_()
+            resize()
+            resize_as(tensor)
+            retain_grad()
+            share_memory_()
+            split(split_size, dim)
+            stft(n_fft: int, hop_length: Optional[int], win_length: Optional[int], window: 'Optional[Tensor]', center: bool, pad_mode: str, normalized: bool, onesided: Optional[bool], return_complex: Optional[bool])
+            unflatten(dim, sizes)
+            unique(sorted, return_inverse, return_counts, dim)
+            unique_consecutive(return_inverse, return_counts, dim)
+          }
+          class TransformerEncoder {
+            layers
+            norm : NoneType
+            num_layers
+            forward(src: Tensor, mask: Optional[Tensor], src_key_padding_mask: Optional[Tensor]) Tensor
+          }
+          class ValueNetwork {
+            active
+            linear1
+            linear2
+            linear3
+            forward(state)
+          }
+          class _SpecialForm {
+          }
+          Parameter --|> Tensor
+          _SpecialForm --* AvgPool1d : kernel_size
+          _SpecialForm --* AvgPool1d : stride
+          _SpecialForm --* AvgPool1d : padding
+          GELU --* QNetwork : active
+          GELU --* ValueNetwork : active
+          PositionalEncoding --* QNetwork : pos_encoder
+          OrderedDict --* OrderedDict : _metadata
+          OrderedDict --* ModuleList : _modules
+          OrderedDict --* Tensor : _backward_hooks
+          ModuleList --* TransformerEncoder : layers
+          Dropout --* PositionalEncoding : dropout
+          Linear --* DeterministicPolicy : linear1
+          Linear --* DeterministicPolicy : linear2
+          Linear --* DeterministicPolicy : mean
+          Linear --* GaussianPolicy : linear1
+          Linear --* GaussianPolicy : linear2
+          Linear --* GaussianPolicy : mean_linear
+          Linear --* GaussianPolicy : log_std_linear
+          Linear --* QNetwork : embeds_action
+          Linear --* QNetwork : linear2
+          Linear --* QNetwork : linear3
+          Linear --* QNetwork : embeds_action_
+          Linear --* QNetwork : linear5
+          Linear --* QNetwork : linear6
+          Linear --* ValueNetwork : linear1
+          Linear --* ValueNetwork : linear2
+          Linear --* ValueNetwork : linear3
+          LayerNorm --* QNetwork : ffn_norm1
+          LayerNorm --* QNetwork : ffn_norm2
+          LayerNorm --* QNetwork : ffn_norm3
+          LayerNorm --* QNetwork : ffn_norm4
+          LayerNorm --* QNetwork : ffn_norm5
+          LayerNorm --* QNetwork : ffn_norm6
+          LayerNorm --* QNetwork : ffn_norm7
+          LayerNorm --* QNetwork : ffn_norm8
+          AvgPool1d --* QNetwork : pool
+          Embedding --* QNetwork : embeds_state
+          Embedding --* QNetwork : embeds_state_
+          TransformerEncoder --* QNetwork : transformer_encoder1
+          TransformerEncoder --* QNetwork : transformer_encoder4
+          Parameter --* Linear : weight
+          Parameter --* Linear : bias
+          Parameter --* LayerNorm : weight
+          Parameter --* LayerNorm : bias
+          Parameter --* Embedding : weight
+          Parameter --* Embedding : weight
+          Adam --* SAC : critic_optim
+          Adam --* SAC : alpha_optim
+          Adam --* SAC : policy_optim
+          Adam --* SAC : policy_optim
+          Tensor --* DeterministicPolicy : noise
+          Tensor --* Linear : weight
+          Tensor --* Embedding : weight
+  
+       </div>
+  </body>
+</html>

@@ -33,7 +33,7 @@ parser.add_argument('--seed', type=int, default=123456, metavar='N',
                     help='random seed (default: 123456)')
 parser.add_argument('--batch_size', type=int, default=256, metavar='N',
                     help='batch size (default: 256)')
-parser.add_argument('--num_steps', type=int, default=1000001, metavar='N',
+parser.add_argument('--num_steps', type=int, default=100001, metavar='N',
                     help='maximum number of steps (default: 1000000)')
 parser.add_argument('--hidden_size', type=int, default=256, metavar='N',
                     help='hidden size (default: 256)')
@@ -46,7 +46,7 @@ parser.add_argument('--target_update_interval', type=int, default=1, metavar='N'
 parser.add_argument('--replay_size', type=int, default=1000000, metavar='N',
                     help='size of replay buffer (default: 10000000)')
 parser.add_argument('--cuda', type=bool, default=True,
-                    help='run on CUDA (default: False)')
+                    help='run on CUDA (default: True)')
 parser.add_argument('--history_length', type=int, default=3, metavar='N',
                     help='the state length')
 parser.add_argument('--filename', type=str, default='test', help='save_file_name')

@@ -1,5 +1,0 @@
-/var/spool/sge/sharc-node099/job_scripts/9233524: line 5: activate: No such file or directory
-Traceback (most recent call last):
-  File "main.py", line 4, in <module>
-    import numpy as np
-ImportError: No module named numpy
